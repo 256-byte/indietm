@@ -1,0 +1,8 @@
+<div class="relative items-start justify-between rounded-xl border border-gray-100 p-4 shadow-xl sm:p-6 lg:p-8 mx-auto w-1/2 bg-white">
+  <%= form_with model: @keyword, url: keyword_path(@keyword.id), data: { controller: 'nested-form', nested_form_wrapper_selector_value: '.nested-form-wrapper', turbo: false, method: :patch } do |f| %>
+    <%= render "form", f: f %>
+    <div class="w-full">
+      <%= f.submit 'Update', class: "btn btn-blue mt-4" %>
+    </div>
+  <% end %>
+</div>

@@ -1,0 +1,22 @@
+<div class="relative items-start justify-between rounded-xl border border-gray-100 p-4 shadow-xl sm:p-6 lg:p-8 mx-auto w-1/2 bg-white">
+  <table class="table-responsive">
+    <thead>
+      <tr>
+        <th></th>
+        <th>Example/Description</th>
+        <th>Category/Group</th>
+        <th>Word Class</th>
+      </tr>
+    </thead>
+    <tbody>
+      <% @keyword.translates.each do |translate| %>
+        <tr>
+          <td class="font-bold"><%= translate.translated%></td>
+          <td><%= translate.description%></td>
+          <td><%= translate.category %></td>
+          <td><%= translate.word_class.join(", ")%></td>
+        </tr>
+      <% end %>
+    </tbody>
+  </table>
+</div>

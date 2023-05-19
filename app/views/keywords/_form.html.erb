@@ -1,0 +1,20 @@
+
+  <div>
+    <p class="form-label"> Kelime </p>
+    <%= f.text_field :word, class: "form-input" %>
+  </div>
+
+  <template data-nested-form-target="template">
+    <%= f.fields_for :translates, Translate.new, child_index: 'NEW_RECORD' do |translate_fields| %>
+      <%= render "translate_form", f: translate_fields %>
+    <% end %>
+  </template>
+
+  <%= f.fields_for :translates do |translate_fields| %>
+    <%= render "translate_form", f: translate_fields %>
+  <% end %>
+
+  <!-- Inserted elements will be injected before that target. -->
+  <div data-nested-form-target="target"></div>
+
+  <button type="button" data-action="nested-form#add" class="btn btn-green mt-4 float-right">+</button>

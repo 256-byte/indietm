@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Indietm</title>
+    <title>TIGD</title>
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
@@ -12,6 +12,7 @@
   </head>
 
   <body class="bg-[#E6F6FF]">
+    <%= render "layouts/navbar"%>
     <main class="container mx-auto mt-5 px-5">
       <%= yield %>
     </main>

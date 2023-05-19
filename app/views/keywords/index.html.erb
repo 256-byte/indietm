@@ -1,0 +1,40 @@
+<div class="relative items-start justify-between rounded-xl border border-gray-100 p-4 shadow-xl sm:p-6 lg:p-8 mx-auto w-1/2 bg-white">
+  <h3 class="mt-2 text-lg font-bold text-gray-900 sm:text-xl">
+    Search something
+  </h3>
+
+  <%= form_with model: @keyword, url: keywords_path, data: { turbo: false }, method: :get do |f| %>
+    <div class="flex">
+      <%= f.text_field :search, class: "mt-1 w-full rounded-md border-gray-200 shadow-sm sm:text-sm", value: params[:search]%>
+      <%= f.submit "Search", class: "btn btn-blue ml-2"%>
+    </div>
+  <% end %>
+
+</div>
+
+<div class="relative items-start justify-between rounded-xl border border-gray-100 p-4 shadow-xl sm:p-6 lg:p-8 mx-auto w-[70%] bg-white mt-4">
+  <% @keywords.each do |keyword|%>
+    <table class="table-responsive">
+      <thead>
+        <tr>
+          <th>Turkish</th>
+          <th>Example/Description</th>
+          <th>Category/Group</th>
+          <th>Word Class</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% keyword.translates.each do |translate| %>
+          <tr>
+            <td><%= translate.translated%></td>
+            <td><%= translate.description%></td>
+            <td><%= translate.category.capitalize %></td>
+            <td class="italic"><%= translate.word_class.join("/")%></td>
+          </tr>
+        <% end %>
+      </tbody>
+    </table>
+  <% end %>
+
+
+</div>

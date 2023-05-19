@@ -1,0 +1,18 @@
+<div class="relative items-start justify-between rounded-xl border border-gray-100 p-4 shadow-xl sm:p-6 lg:p-8 mx-auto w-[70%] bg-white mt-4">
+  <table class="table-responsive">
+    <thead>
+      <tr>
+        <th></th>
+        <th>Keyword</th>
+      </tr>
+    </thead>
+    <tbody>
+      <% @keywords.each do |keyword| %>
+        <tr>
+          <td><%= link_to "Duzenle", edit_keyword_path(keyword.id)%></td>
+          <td><%= keyword.word%></td>
+        </tr>
+      <% end %>
+    </tbody>
+  </table>
+</div>

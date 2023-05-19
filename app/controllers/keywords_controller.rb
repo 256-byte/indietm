@@ -1,4 +1,6 @@
 class KeywordsController < ApplicationController
+  before_action :set_keyword, only: [:show, :edit, :destroy, :update]
+
   def index
     @keywords = Keyword.list(params[:search])
   end
@@ -8,11 +10,11 @@ class KeywordsController < ApplicationController
   end
 
   def show
-    @keyword = Keyword.find(params[:id])
+
   end
 
   def edit
-    @keyword = Keyword.find(params[:id])
+
   end
 
   def all
@@ -34,8 +36,6 @@ class KeywordsController < ApplicationController
   end
 
   def update
-    @keyword = Keyword.find(params[:id])
-
     respond_to do |format|
       if @keyword.update(keyword_params)
         format.html { redirect_to @keyword, notice: 'Keyword was successfully updated.' }
@@ -47,7 +47,16 @@ class KeywordsController < ApplicationController
     end
   end
 
+  def destroy
+    @keyword.destroy
+    redirect_to all_keywords_path
+  end
+
   private
+  def set_keyword
+    @keyword = Keyword.find(params[:id])
+  end
+
   def keyword_params
     params.require(:keyword).permit(:word, translates_attributes: [:id, :_destroy, :translated, :category, :description, word_class: []])
   end

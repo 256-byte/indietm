@@ -3,9 +3,12 @@ Rails.application.routes.draw do
 
   resources :keywords do
     get "all", on: :collection
+    get "sync_dictionary", on: :collection
   end
 
-  # Defines the root path route ("/")
-  # root "articles#index"
-  root "keywords#index"
+  resources :home do
+    get "guide", on: :collection
+  end
+
+  root "home#index"
 end

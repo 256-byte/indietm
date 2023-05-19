@@ -1,4 +1,5 @@
 <div class="relative items-start justify-between rounded-xl border border-gray-100 p-4 shadow-xl sm:p-6 lg:p-8 mx-auto w-[70%] bg-white mt-4">
+  <%= link_to "Create New One", new_keyword_path, class: "btn btn-blue mb-4 float-right"%>
   <table class="table-responsive">
     <thead>
       <tr>
@@ -10,8 +11,8 @@
     <tbody>
       <% @keywords.each do |keyword| %>
         <tr>
-          <td><%= link_to "Edit", edit_keyword_path(keyword.id)%></td>
-          <td><%= link_to "Delete", keyword_path(keyword.id), data: { turbo_method: :delete, turbo_confirm: "Are you sure you want to delete the translation?" } %></td>
+          <td><%= link_to "Edit", edit_keyword_path(keyword.id), class: "btn btn-blue"%></td>
+          <td><%= link_to "Delete", keyword_path(keyword.id), data: { turbo_method: :delete, turbo_confirm: "Are you sure you want to delete the translation?" }, class: "btn btn-red" %></td>
           <td><%= keyword.word%></td>
         </tr>
       <% end %>

@@ -52,6 +52,11 @@ class KeywordsController < ApplicationController
     redirect_to all_keywords_path
   end
 
+  def sync_dictionary
+    Keyword.import_dictionary
+    redirect_to root_path
+  end
+
   private
   def set_keyword
     @keyword = Keyword.find(params[:id])

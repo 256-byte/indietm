@@ -1,0 +1,2631 @@
+2D Artist,NP,,Credits,2B Sanatçısı
+2D Artists,NP/Pl,,Credits,2B Sanatçıları
+3D Modeling,NP,,Credits,3B Modelleme
+Abilities,N/Pl,Character abilities,Labels,Yetenekler
+Ability,N,Character ability,Labels,Yetenek
+About,Prep.,Usually in menus or uı,Labels,Hakkında
+Above Average,ADJ,Grading difficulty etc.,Grades,Ortalama Üstü
+Accelerate,V/T/Imp,To make sth happen faster,Actions,Hızlandır
+Accelerate,V/T/Imp,To start to go faster,Actions,Hızlan
+Acceleration,N,Act of making sth happen faster,Labels,Hızlandırma
+Accepted,V/Past/Pass,Sth was accepted by sb,Status,Kabul Edildi
+Accept,V/T/Imp,To accept,Actions,Kabul Et
+Accessibility,N,Color blind options etc.,Labels,Erişilebilirlik
+Accessibility Settings,NP/Pl,Color blind options etc.,Labels,Erişilebilirlik Ayarları
+Account,N,,Labels,Hesap
+Account Settings,NP/Pl,,Labels,Hesap Ayarları
+Account Verification,NP,,Labels,Hesap Doğrulama
+Accounts,N/Pl,,Labels,Hesaplar
+Accuracy,N,Weapon accuracy etc.,Labels,İsabetlilik
+Accuracy,N,Being exact or correct,Labels,Doğruluk
+Achievement,N,,Labels,Başarım
+Achievement Unlocked,VP,,Status,Başarım Kazanıldı
+Achievements,N/Pl,,Labels,Başarımlar
+Act,V/I/Imp,Act your character etc.,Actions,Hareket Et
+Act,N,e.g. Game episode,Labels,Bölüm
+Acts,N/Pl,e.g. Game episodes,Labels,Bölümler
+Action,N,,Labels,Eylem
+Actions,N/Pl,Player actions etc.,Labels,Eylemler
+Action,N,,Genre,Aksiyon
+Action Game,NP,,Genre,Aksiyon Oyunu
+Action Point,NP,,Labels,Eylem Puanı
+Action Points,NP/Pl,,Labels,Eylem Puanları
+Action Wheel,NP,Quick menu,Labels,Eylem Menüsü
+Activate,V/T/Imp,To activate sth,Actions,Etkinleştir
+Activated,V/Past/Pass,Sth was activated by sb,Status,Etkinleştirildi
+Activation,N,,Labels,Etkinleştirme
+Active,N,,Status,Etkin
+Add,V/T/Imp,,Actions,Ekle
+Additional,ADJ,,Labels,Ek Olarak
+ADS,VP/Imp,Aim your weapon etc.,Actions,Nişan Al
+ADS,NP,,Labels,Nişan Alma
+ADS Sensitivity,NP,,Labels,Nişan Alma Hassasiyeti
+Advance,V/I/Imp,Move forward,Actions,İlerle
+Advanced,ADJ,,Labels,Gelişmiş
+Advanced,ADJ,Grading difficulty etc.,Grades,Gelişmiş
+Advanced Controls,NP/Pl,,Labels,Gelişmiş Kontroller
+Advanced Graphics,NP/Pl,,Labels,Gelişmiş Grafikler
+Advanced Settings,NP/Pl,,Labels,Gelişmiş Ayarlar
+Adventure,N,,Labels,Macera
+Adventure,N,,Grades,Macera
+Adventure,N,,Genre,Macera
+Adventure Game,NP,,Genre,Macera Oyunu
+Adventure Mode,NP,,Labels,Macera Modu
+Age,N,,Labels,Yaş
+Aggressiveness,N,,Labels,Agresiflik
+Aggro,N/Abbr.,Aggressiveness,Labels,Agresiflik
+Aggro,V/T/Imp/Abbr.,To aggro an enemy,Actions,Sinirlendir
+AGI,N/Abbr.,Agility,Labels,KIV
+Agility,N,,Labels,Kıvraklık
+AI,N/Acr.,Artificial intelligence,Labels,YZ
+Aim,V/I/Imp,To aim a weapon etc.,Actions,Nişan Al
+Aim,N,In control menus etc.,Labels,Nişan Alma
+Aim Acceleration,NP,,Labels,Nişan Alma İvmesi
+Aim Assist,NP,,Labels,Nişan Desteği
+Aim Down Sights,VP/Imp,Aiming command,Actions,Nişan Al
+Aim Down Sights,NP,In control menus etc.,Labels,Nişan Alma
+Aim Sensitivity,NP,,Labels,Nişan Alma Hassasiyeti
+Aim Sensitivity X,NP,,Labels,Nişan Alma Hassasiyeti X
+Aim Sensitivity Y,NP,,Labels,Nişan Alma Hassasiyeti Y
+Aiming Sensitivity,NP,,Labels,Nişan Alma Hassasiyeti
+Aiming Sensitivity X,NP,,Labels,Nişan Alma Hassasiyeti X
+Aiming Sensitivity Y,NP,,Labels,Nişan Alma Hassasiyeti Y
+Air,N,,Labels,Hava
+Air Damage,NP,,Labels,Hava Hasarı
+Air Resistance,NP,,Labels,Hava Direnci
+Alien,N,,Labels,Uzaylı
+Aliens,N/Pl,,Labels,Uzaylılar
+Alive,ADJ,,Status,Canlı
+All,Det.,All option in graphics,Grades,Tümü
+All,Det.,"Take all, select all",Labels,Hepsi
+Allies,N/Pl,Friendly or ally collectives,Labels,Müttefikler
+Allies,N/Pl,Friendly or ally npc's,Labels,Dostlar
+Ally,N,Friendly or ally npc,Status,Dost
+Ally,N,Friendly or ally collective,Status,Müttefik
+Altitude,N,e.g. Plane altitude,Status,Yükseklik
+Ambient Occlusion,NP,,Labels,Ortam Aydınlatması
+Ambient Sound,NP,,Labels,Ortam Sesi
+Ambient Sounds,NP/Pl,,Labels,Ortam Sesleri
+Ammo,N/Abbr.,,Labels,Mühimmat
+Ammunition,N,,Labels,Mühimmat
+Ammunition Box,NP,,Labels,Mühimmat Kutusu
+Amulet,N,Accessory,Labels,Tılsım
+Amulets,N/Pl,Accessory,Labels,Tılsımlar
+An error has occured.,S,,Sentences,Bir hata oluştu.
+Animation,N,"Menus, animation quality etc.",Labels,Animasyon
+Animation,N,,Credits,Animasyon
+Animation Director,NP,,Credits,Animasyon Yönetmeni
+Animator,N,,Credits,Animatör
+Animators,N/Pl,,Credits,Animatörler
+Anisotropic,ADJ,Filtering option,Labels,Yönbağımlı
+Anisotropic Filtering,NP,,Labels,Yönbağımlı Filtreleme
+Anti Aliasing,NP,,Labels,Kenar Yumuşatma
+Anti Aliasing Quality,NP,,Labels,Kenar Yumuşatma Kalitesi
+Anti-Aliasing,NP,,Labels,Kenar Yumuşatma
+Antialiasing Quality,NP,,Labels,Kenar Yumuşatma Kalitesi
+Anti-Aliasing Quality,NP,,Labels,Kenar Yumuşatma Kalitesi
+Anvil,N,,Labels,Örs
+AP,NP/Pl,Action Points,Labels,EP
+Appearance,N,Character apperance etc.,Labels,Görünüş
+Apply,V/T/Imp,To apply,Actions,Uygula
+Arcade,N,Non serious fun mode,Labels,Eğlence
+Arcade,N,Difficulty grade,Grades,Eğlence
+Arcade Mode,NP,Non serious fun mode,Labels,Eğlence Modu
+Arcane,ADJ,,Labels,Gizemli
+Arcane Spells,NP,,Labels,Gizemli Büyüler
+Archived,ADJ,Archived quests etc.,Labels,Arşivlenen
+Archived,V/T/Past/Pass,Sth was archived,Status,Arşivlendi
+Are you sure you want to quit?,S,,Sentences,Çıkmak istediğine emin misin?
+Are you sure?,S,,Sentences,Emin misin?
+Arena,N,,Labels,Arena
+Arm,V/T/Imp,To arm a bomb,Actions,Kur
+Arm,N,A part of a body,Labels,Kol
+Armor,N,,Labels,Zırh
+Armored,ADJ,"Armored vehicle, tank etc.",Labels,Zırhlı
+Armors,N/Pl,,Labels,Zırhlar
+Arms,N/Pl,Parts of a body,Labels,Kollar
+Arrow,N,,Labels,Ok
+Arrows,N/Pl,,Labels,Oklar
+Art,N,,Credits,Sanat
+Art Director,NP,,Credits,Sanat Yönetmeni
+Art Gallery,NP,,Labels,Sanat Galerisi
+Artificial Intelligence,NP,,Labels,Yapay Zekâ
+Artist,N,,Credits,Sanatçı
+Artists,N/Pl,,Credits,Sanatçılar
+Ascend,V/I/Imp,Make something go up,Actions,Yukarı Çık
+Ascended,V/Past/Pass,Ascended an item or skill,Status,Yükseltildi
+Ascend,V/T/Imp,To ascend an item or skill,Actions,Yükselt
+Ascend,V/I/Imp,Scroll up on menus,Actions,Yukarı Çık
+Aspect Ratio,NP,,Labels,En/Boy Oranı
+Assassin,N,,Labels,Suikastçı
+Assist,N,Score assist,Labels,Asist
+Assist,V/I/Imp,To help someone,Actions,Yardım Et
+Assistant,N,,Credits,Yardımcı
+Assists,N/Pl,Score assists,Labels,Asistler
+Associate,V/T/Imp,To associate,Actions,İlişkilendir
+Attack,V/I/Imp,To attack,Actions,Saldır
+Attack,N,,Labels,Saldırı
+Attack Power,NP,,Labels,Saldırı Gücü
+Attack Range,NP,,Labels,Saldırı Menzili
+Attack Rate,NP,,Labels,Saldırı Hızı
+Attack Speed,NP,,Labels,Saldırı Hızı
+Attires,N/Pl,Outfits,Labels,Kıyafetler
+Attire,N,Outfit,Labels,Kıyafet
+Attribute,N,,Labels,Nitelik
+Attribute Points,NP/Pl,,Labels,Nitelik Puanları
+Attributes,N/Pl,,Labels,Nitelikler
+Audio,N,,Labels,Ses
+Audio,N,,Credits,Ses
+Audio Director,NP,,Credits,Ses Yönetmeni
+Automatic,N,,Status,Otomatik
+Automatic,N,,Labels,Otomatik
+Auto,N/Abbr.,,Status,Otomatik
+Auto,N/Abbr.,,Labels,Otomatik
+Auto,N/Abbr.,,Labels,Araba
+Auto Attack,NP,,Labels,Otomatik Saldırı
+Auto Detect,VP/Imp,Auto detect graphic settings,Actions,Otomatik Algıla
+Auto Jumping,NP,,Labels,Otomatik Zıplama
+Auto Running,NP,Moving fast on foot,Labels,Otomatik Koşma
+Auto Running,NP,Running a vehicle or program,Labels,Otomatik Çalıştırma
+Auto Save,VP,To save automatically,Actions,Otomatik Kaydet
+Auto Saves,NP/Pl,,Labels,Otomatik Kayıtlar
+Auto Saving,VP/PrCon/Pass,Currently is saving,Actions,Otomatik Kaydediliyor
+Auto Saving,NP,In menus etc.,Labels,Otomatik Kaydetme
+Autosort,V/T/Imp,To sort automatically,Actions,Otomatik Sırala
+Average,ADJ,Graphic or difficulty grade,Grades,Ortalama
+Away,ADV,Sb or sth is away,Status,Uzakta
+Axe,N,,Labels,Balta
+Back,V/I/Imp,"In menus, go back",Actions,Geri Dön
+Background,N,,Labels,Arka Plan
+Background Music,NP,,Labels,Arka Plan Müziği
+Backpack,N,,Labels,Sırt Çantası
+Backstab,V/T/Imp,To stab someone from back,Actions,Sırtından Vur
+Backstep,V/I/Imp,Step back,Actions,Geri Çekil
+Ballista,N,,Labels,Balista
+Ballista Bolt,N,,Labels,Balista Oku
+Bandage,N,A bandage,Labels,Bandaj
+Bandage,V/T/Imp,To wrap a bandage,Actions,Bandajla
+Bandits,N/Pl,,Labels,Haydutlar
+Bandit,N,,Labels,Haydut
+Banner,N,,Labels,Sancak
+Banners,N/Pl,,Labels,Sancaklar
+Bar,N,A metal or wooden stick,Labels,Çubuk
+Bar,N,Skill bar etc.,Labels,Gösterge
+Barbarians,N/Pl,,Labels,Barbarlar
+Barbarian,N,,Labels,Barbar
+Bard,N,A class,Labels,Ozan
+Bargain,V/I/Imp,To bargain with sb,Actions,Pazarlık Yap
+Barrier,N,Magical or physical barrier,Labels,Bariyer
+Bars,N/Pl,Skill bars etc.,Labels,Göstergeler
+Bars,N/Pl,Metal or wooden sticks,Labels,Çubuklar
+Barter,V/T/Imp,To exchange sth with sb,Actions,Takas Et
+Bartering,N,IM or Character bartering skill,Labels,Takas Etme
+Basic Controls,NP/Pl,,Labels,Temel Kontroller
+Basics,N/Pl,Basic infos about game,Labels,Temel Bilgiler
+Battle,V/I/Imp,To battle,Actions,Savaş
+Battle,N,A battle,Labels,Savaş
+Battlemage,N,,Labels,Muharebe Sihirbazı
+Beacon,N,A light to guide,Labels,İşaret Ateşi
+Beard,N,,Labels,Sakal
+Beards,N/Pl,,Labels,Sakallar
+Beast,N,A dangerous animal,Labels,Hayvan
+Beast,N,Unusual mythical beast,Labels,Canavar
+Beastmaster,N,Dangerous animal tamer,Labels,Hayvan Terbiyecisi
+Beastmaster,N,Mythical beast tamer,Labels,Canavar Terbiyecisi
+Beasts,N/Pl,Unusual mythical beasts,Labels,Canavarlar
+Beasts,N/Pl,Dangerous animals,Labels,Hayvanlar
+Bed,N,,Labels,Yatak
+Beds,N/Pl,,Labels,Yataklar
+Beef,N,Cow meat,Labels,Dana Eti
+Beehive,N,,Labels,Arı Kovanı
+Belt,N,Cloth or armor belt,Labels,Kemer
+Berries,N/Pl,,Labels,Böğürtlenler
+Berry,N,,Labels,Böğürtlen
+Big,ADJ,Grading in menus etc.,Labels,Büyük
+Bike,N,Bicycle,Labels,Bisiklet
+Bike,V/I/Imp,To ride a bicycle or motorcycle,Actions,Sür
+Bikes,N/Pl,Bicycles,Labels,Bisikletler
+Bilinear,ADJ,Option in graphic settings,Labels,Çift Doğrusal
+Blacksmith,N,,Labels,Demirci
+Bled,V/Past/Pass,Sb was bled by sb,Status,Kanatıldı
+Bleed,V/I/Imp,To bleed sb,Actions,Kanat
+Bleed Resistance,NP,,Labels,Kanama Direnci
+Bleeding Damage,NP,,Labels,Kanama Hasarı
+Bleeding,V/T/PrCon/Act,Sb bleeding sb,Actions,Kanatıyor
+Bleeding,V/I/PrCon/Act,Sb is losing blood,Status,Kanıyor
+Bleeding,N,Stat in weapons etc.,Labels,Kanama
+Bleeding,ADJ,"A ""bleeding"" item",Labels,Kanayan
+Bless,V/T/Imp,To make sth or sb holy,Actions,Kutsa
+Blessed,V/Past/Pass,Sb or sth was blessed,Status,Kutsandı
+Blessed,ADJ,"A ""blessed"" item",Labels,Kutsanmış
+Blessing,N,"IM, stat in weapon, skill etc",Labels,Kutsama
+Blessing,V/T/PrCon/Act,Sb blessing sth or sb,Actions,Kutsuyor
+Blind,ADJ,A blind person,Labels,Kör
+Blind,V/T/Imp,To blind sth,Actions,Kör Et
+Blind Resistance,NP,,Labels,Kör Etmeye Karşı Direnç
+Blinded,V/Past/Pass,Sb was blinded by sb,Status,Kör Edildi
+Blinding,N,,Labels,Kör Etme
+Blinding,V/T/PrCon/Act,Sb blinding sth,Actions,Kör Ediyor
+Blinding,ADJ,A blinding thing,Labels,Kör Edici
+Block,N,Stone block etc,Labels,Blok
+Blocks,N/Pl,Stone blocks etc,Labels,Bloklar
+Blood,N,,Labels,Kan
+Bloody,ADJ,A bloody thing,Labels,Kanlı
+Bloom,N,Light bloom,Labels,Işık Parlaması
+Board,N,,Labels,Pano
+Boat,N,Small boat,Labels,Kayık
+Boats,N/Pl,Small boats,Labels,Kayıklar
+Bolt,N,,Labels,Arbalet Oku
+Bolts,N/Pl,,Labels,Arbalet Okları
+Bomb,V/T/Imp,To bomb,Actions,Bombala
+Bomb,N,,Labels,Bomba
+Bombs,N/Pl,,Labels,Bombalar
+Bone,N,,Labels,Kemik
+Bones,N/Pl,,Labels,Kemikler
+Bonus,N,Character or item bonus,Labels,Bonus
+Bonuses,N/Pl,Character or item bonuses,Labels,Bonuslar
+Bonuses,N/Pl,Additional rewards,Labels,Ekstra Ödüller
+Bonus,N,Additional reward,Labels,Ekstra Ödül
+Book,N,,Labels,Kitap
+Books,N/Pl,,Labels,Kitaplar
+Boost,V/T/Imp,"To boost an item, skill etc",Actions,Yükselt
+Boost,V/I/Imp,Help someone,Actions,Destek Ver
+Boosted,V/I/Past/Pass,,Status,Yükseltildi
+Boot,N,A type of shoes,Labels,Çizme
+Boot,V/T/Imp,To boot a program,Labels,Çalıştır
+Boots,N/Pl,A type of shoes,Labels,Çizmeler
+Borderless,ADJ,,Labels,Kenarsız
+Borderless Windowed,AP,,Labels,Kenarsız Pencereli
+Boss,N,Boss in games,Labels,Elebaşı
+Boss,N,A boss in workplace,Labels,Patron
+Bot,N,AI controlled bot,Labels,Bot
+Bots,N/Pl,AI controlled bots,Labels,Botlar
+Bow,N,Weapon,Labels,Yay
+Bow,V/I/Imp,Bow emote,Actions,Eğil
+Bracelet,N,Armor,Labels,Kol Zırhı
+Bracelet,N,Jewelry,Labels,Bilezik
+Bracelets,N/Pl,Armors,Labels,Kol Zırhları
+Bracelets,N/Pl,Jewelry,Labels,Bilezikler
+Bracer,N,Armor,Labels,Kol Zırhı
+Bracers,N/Pl,Armors,Labels,Kol Zırhları
+Brake,V/T/Imp,To brake a car,Actions,Frenle
+Brake,N,Brake of a car,Labels,Fren
+Brakes,N/Pl,Brakes of a car,Labels,Frenler
+Break,V/T/Imp,To break sth,Actions,Kır
+Broken,V/Past/Pass,Sth was broken,Status,Kırıldı
+Broken,ADJ,Broken things,Status,Kırılmış
+Breath,N,,Labels,Nefes
+Breath,V/I/Imp,To breath,Actions,Nefes Al
+Brew,V/T/Imp,To brew potion,Actions,Hazırla
+Brew,V/T/Imp,To brew beer,Actions,Mayala
+Brew,V/T/Imp,"To brew tea, coffee",Actions,Demle
+Brewing,N,Character skill,Labels,İksircilik
+Brewing,N,Potion brewing menu,Labels,İksir Hazırlama
+Brick,N,,Labels,Tuğla
+Bricks,N/Pl,,Labels,Tuğlalar
+Brightness,N,,Labels,Parlaklık
+Bronze,N,"Bronze medal, ore, ıngot",Labels,Bronz
+Bronze Armour,NP,,Labels,Bronz Zırh
+Bronze Axe,NP,,Labels,Bronz Balta
+Bronze Boots,NP,,Labels,Bronz Çizmeler
+Bronze Bracer,NP,,Labels,Bronz Kol Zırhı
+Bronze Dagger,NP,,Labels,Bronz Hançer
+Bronze Great Axe,NP,,Labels,Bronz Büyük Balta
+Bronze Great Hammer,NP,,Labels,Bronz Büyük Çekiç
+Bronze Hammer,NP,,Labels,Bronz Çekiç
+Bronze Hatchet,NP,,Labels,Bronz Balta
+Bronze Helmet,NP,,Labels,Bronz Kask
+Bronze Hoe,NP,,Labels,Bronz Çapa
+Bronze Ingot,NP,,Labels,Bronz Külçe
+Bronze Ingots,NP,,Labels,Bronz Külçeleri
+Bronze Katana,NP,,Labels,Bronz Katana
+Bronze Knife,NP,,Labels,Bronz Bıçak
+Bronze Leggings,NP,,Labels,Bronz Bacak Zırhları
+Bronze Medal,NP,,Labels,Bronz Madalya
+Bronze Pickaxe,NP,,Labels,Bronz Kazma
+Bronze Ring,NP,,Labels,Bronz Yüzük
+Bronze Shield,NP,,Labels,Bronz Kalkan
+Bronze Spear,NP,,Labels,Bronz Mızrak
+Bronze Sword,NP,,Labels,Bronz Kılıç
+Build,V/T/Imp,To build sth,Actions,İnşa Et
+Building,N,A building,Labels,Yapı
+Building,N,"Character skill, In menus etc.",Labels,İnşa Etme
+Bullet,N,,Labels,Mermi
+Bullets,N/Pl,,Labels,Mermiler
+Burn,V/T/Imp,To burn sth,Actions,Yak
+Burned,V/Past/Pass,Sth or sb was burned by sb,Status,Yakıldı
+Burning,V/I/PrCon/Act,Sb is burning,Status,Yanıyor
+Burning,V/T/PrCon/Act,Sb burning sb or sth,Actions,Yakıyor
+Burning,ADJ,A burning item etc.,Labels,Yakan
+Button,N,Controller ,Labels,Düğme
+Button Settings,NP,Controller,Labels,Düğme Ayarları
+Buttons,N/Pl,Controller,Labels,Düğmeler
+Buy,V/T/Imp,To buy sth,Actions,Satın Al
+Bought,V/Past/Pass,Sth was bought by sb,Status,Satın Alındı
+C4,N,,Labels,C4
+Cactus,N,,Labels,Kaktüs
+Cake,N,,Labels,Kek
+Cake,N,,Labels,Pasta
+Calf,N,,Labels,Buzağı
+Camera,N,,Labels,Kamera
+Camera Assist,NP,,Labels,Kamera Yardımcısı
+Camera Auto Rotation,NP,,Labels,Kamerayı Otomatik Döndürme
+Camera Control,NP,,Labels,Kamera Kontrolü
+Camera Height,NP,,Labels,Kamera Yüksekliği
+Camera Lock,NP,,Labels,Kamera Kilitleme
+Camera Move Speed,NP,,Labels,Kamera Hareket Hızı
+Camera Sensitivity,NP,,Labels,Kamera Hassasiyeti
+Camera Shake,NP,,Labels,Kamera Sarsıntısı
+Camera Speed,NP,,Labels,Kamera Hızı
+Camera View,NP,,Labels,Kamera Görünümü
+Camera X-Axis,NP,,Labels,Kamera X-Ekseni
+Camera Y-Axis,NP,,Labels,Kamera Y-Ekseni
+Camera Zoom,NP,,Labels,Kamera Yakınlaştırması
+Campaign,N,Campaign mode,Labels,Senaryo
+Campfire,N,,Labels,Kamp Ateşi
+Cancel,V/T/Imp,To cancel sth,Actions,İptal Et
+Can't Sign In?,S,,Sentences,Giriş yapamıyor musunuz?
+Cap,N,,Labels,Başlık
+Capture,V/T/Imp,"To capture flag, location etc.",Actions,Ele Geçir
+Car,N,Automobile,Labels,Araba
+Car,N,Train car,Labels,Vagon
+Car Volume,NP,,Labels,Araba Sesi
+Card,N,,Labels,Kart
+Card Game,NP,,Genre,Kart Oyunu
+Cards,N/Pl,,Labels,Kartlar
+Career,N,,Labels,Kariyer
+Cast,V/I/Imp,To cast a spell or skill,Actions,Yap
+Casted,V/Past/Pass,Spell or skill casted by sb,Status,Yapıldı
+Caster,N,,Labels,Büyücü
+Casting,V/PrCon/Act,Sb casting skill or spell,Actions,Yapıyor
+Castle,N,,Labels,Kale
+Casual,N,Very easy difficulty,Grades,Eğlence
+Casual,N,,Genre,Eğlence
+Casual Game,NP,,Genre,Basit Eğlence
+Cat,N,,Labels,Kedi
+Cats,N/Pl,,Labels,Kediler
+Cauldron,N,,Labels,Kazan
+Cavalier,N,,Labels,Süvari
+Cavalry,N/Pl,Multiple cavalier,Labels,Süvariler
+Cavalry,N,Character's cavalry skill etc. IM,Labels,Süvarilik
+Cave,N,,Labels,Mağara
+Chain,N,,Labels,Zincir
+Chainmail,N,,Labels,Zincir Zırh
+Challenge,V/I/Imp,To challenge sth or sb,Actions,Meydan Oku
+Challenge,N,In menus etc.,Labels,Meydan Okuma
+Challenge Mode,NP,,Labels,Meydan Okuma Modu
+Challenges,N/Pl,,Labels,Meydan Okumalar
+Challenging,ADJ,Challenging mode etc.,Grades,Zorlayıcı
+Chapters,N/Pl,,Labels,Bölümler
+Chapter,N,,Labels,Bölüm
+Character Artist,NP,,Credits,Karakter Sanatçısı
+Character Artists,NP,,Credits,Karakter Sanatçıları
+Character Designer,NP,,Credits,Karakter Tasarımcısı
+Character Designers,NP,,Credits,Karakter Tasarımcıları
+Character Level,NP,,Labels,Karakter Seviyesi
+Character Sheet,NP,,Labels,Karakter Kağıdı
+Character Status,NP,,Labels,Karakter Durumu
+Charcoal,N,,Labels,Odun Kömürü
+Charge,V/T/Imp,"To make sth stronger, skill etc.",Actions,Güçlendir
+Charge,V/I/Imp,To charge into battle,Actions,Hücum Et
+Charged,V/T/Past/Pass,A charged skill etc.,Status,Güçlendirildi
+Charged,V/I/Past/Pass,Charged into battle,Status,Hücum Edildi
+Charging,V/T/PrCon/Act,Sb is charging skill etc.,Actions,Güçlendiriyor
+Charging,N,"Character's charging skill, IM",Labels,Güçlendirme
+Charging,V/I/PrCon/Act,Currently charging into battle,Actions,Hücum Ediyor
+Charging,N,"Character's charging skill, IM",Labels,Hücum Etme
+Charm,N,Charm of sb,Labels,Cazibe
+Charm,V/T/Imp,To seduce sth,Actions,Ayart
+Charm,N,As an accessory,Labels,Tılsım
+Charmed,V/Past/Pass,Sb is seduced by sb,Status,Ayartıldı
+Charmed,ADJ,"A ""charmed"" sth",Status,Ayartılmış
+Charming,ADJ,"A ""charming"" person",Labels,Cazibeli
+Charming,V/PrCon/Act,Currently seducing sb,Actions,Ayartıyor
+Charms,N/Pl,Accessories,Labels,Tılsımlar
+Chassis,N,Car Chassis,Labels,Ana Gövde
+Chat,N,In game chat,Labels,Sohbet
+Chat,V/I/Imp,To chat sb,Actions,Sohbet Et
+Chat Scale,NP,,Labels,Sohbet Boyutu
+Chatting,V/PrCon/Act,,Actions,Sohbet Ediyor
+Cheat,V/T/Imp,"To cheat, non romantic",Actions,Kandır
+Cheat,N,Game cheats etc.,Labels,Hile
+Cheat Death,V,To cheat death,Actions,Kefeni Yırt
+Cheat Death,NP,Character skill,Labels,Kefeni Yırtma
+Cheats,N/Pl,Game cheats etc.,Labels,Hileler
+Chest,N,Character's chest,Labels,Göğüs
+Chest,N,Item for storing,Labels,Sandık
+Chest Armour,NP,,Labels,Göğüs Zırhı
+Chest Armours,NP,,Labels,Göğüs Zırhları
+Chick,N,Baby chicken,Labels,Civciv
+Chicken,ADJ,Coward,Labels,Korkak
+Chicken,N,Animal,Labels,Tavuk
+Chickens,N/Pl,Animal,Labels,Tavuklar
+Chief Technical Officer,NP,,Credits,Baş Teknoloji Sorumlusu
+Chill,V/I/Imp,To chill sb,Actions,Üşüt
+Chilled,V/I/Past/Pass,Sb was chilled,Status,Üşütüldü
+Chilling,V/I/PrCon/Act,Currently chilling sb,Actions,Üşütüyor
+Chilling,N,Character's skill etc.,Labels,Üşütme
+Chilling Damage,NP,,Labels,Üşütme Hasarı
+Chin,N,,Labels,Çene
+Chop,V/T/Imp,To chop tree or sth,Actions,Kes
+Chopping,N,Character's chopping skill etc.,Labels,Ağaç Kesme
+Cinematic Animation,NP,,Credits,Sinematik Animasyon
+Cinematic Animator,NP,,Credits,Sinematik Animasyoncu
+Cinematic Effects,NP,,Credits,Sinematik Efektler
+Cinematics,N,,Labels,Sinematikler
+Cinematics,N,,Credits,Sinematikler
+Cinematics Director,NP,,Credits,Sinematik Yönetmeni
+Claim,V/T/Imp,To claim sth from sb,Actions,Talep Et
+Claim,V/T/Imp,To pick up sth,Actions,Al
+Claimed,V/Past/Pass,Sth was claimed by sb,Status,Talep Edildi
+Claimed,V/Past/Pass,Sth was picked up,Status,Alındı
+Claiming,V/PrCon/Act,Currently claiming sth from sb,Actions,Talep Ediyor
+Class,N,Character's class etc.,Labels,Sınıf
+Claw,N,Item,Labels,Pençe
+Claw,V/T/Imp,To claw sb,Actions,Pençele
+Clawed,V/Past/Pass,Sb is clawed,Status,Pençelendi
+Clawing,V/PrCon/Act,Currently clawing sb,Actions,Pençeliyor
+Claws,N,Item,Labels,Pençeler
+Clay,N,,Labels,Kil
+Claymore,N,,Labels,İskoç Kılıcı
+Cleave,V/T/Imp,To cleave sb or sth,Actions,Biç
+Cleave Damage,NP,Item stat etc.,Labels,Biçme Hasarı
+Cleaved,V/Past/Pass,Sb or sth was cleaved,Status,Biçildi
+Cleaving,V/PrCon/Act,Currently cleaving sth or sb,Actions,Biçiyor
+Cleaving,N,Character's or item's skill etc.,Labels,Biçme
+Cleric,N,,Labels,Rahip
+Click,V/I/Imp,Clicking with mouse,Actions,Tıkla
+Client,N,Game client,Labels,İstemci
+Climb,V/I/Imp,To climb a ladder etc.,Actions,Tırman
+Climb Down,VP/I/Imp,To climb down a ladder etc.,Actions,Aşağı Tırman
+Climb Up,VP/I/Imp,To climb up a ladder etc.,Actions,Yukarı Tırman
+Climbing,V/PrCon/Act,Sb is climbing sth,Actions,Tırmanıyor
+Climbed,V/Past/Pass,Sth was climbed,Status,Tırmanıldı
+Cloak,N,Item,Labels,Pelerin
+Cloak,V/I/Imp,To cloak,Actions,Gizlen
+Cloaked,V/Past/Pass,Sb was cloaked,Status,Gizlendi
+Cloaking,V/PrCon/Act,Sb is currently cloaking,Actions,Gizleniyor
+Cloaking,ADJ,Cloaking item etc.,Labels,Gizleyen
+Clock,N,,Labels,Saat
+Clone,V/T/Imp,To clone sb or sth,Actions,Klonla
+Clone,N,Sb or sth is a clone,Labels,Klon
+Cloned,V/Past/Pass,Sb or sth is cloned,Status,Klonlandı
+Cloning,V/PrCon/Act,Currently cloning sth or sb,Actions,Klonluyor
+Close,V/T/Imp,To close sth,Actions,Kapat
+Close,ADJ,Sth is close,Labels,Yakın
+Closed,V/Past/Pass,Sth was closed,Status,Kapatıldı
+Closed,ADJ,Closed door,Status,Kapalı
+Closing,V/PrCon/Pass,Program etc. is being closed,Actions,Kapatılıyor
+Closing,V/PrCon/Act,Sth is currently coming near,Actions,Yaklaşıyor
+Closing,N,,Labels,Yaklaşma
+Cloth,N,Piece of cloth,Labels,Kumaş
+Clothes,N/Pl,"dress, attire, outfits",Labels,Giysiler
+Coal,N,,Labels,Kömür
+Coal Ore,NP,,Labels,Kömür Cevheri
+Cockpit,N,,Labels,Kokpit
+Cocoa,N,,Labels,Kakao
+Cocoa Bean,NP,,Labels,Kakao Çekirdeği
+Cocoa Beans,NP,,Labels,Kakao Çekirdekleri
+Code,N,,Credits,Kod
+Coding,N,,Credits,Kodlama
+Coin,N,,Labels,Para
+Coin,N,,Labels,Madeni Para
+Coin Purse,NP,,Labels,Para Kesesi
+Cold,ADJ,,Labels,Soğuk
+Cool,V/T/Imp,,Actions,Soğut
+Cooling,V/T/PrCon/Act,,Actions,Soğutuyor
+Cooled,V/T/Past/Pass,,Status,Soğutuldu
+Collect,V/T/Imp,,Actions,Topla
+Collected,V/Past/Pass,,Status,Toplandı
+Collecting,V/PrCon/Act,,Actions,Topluyor
+Collecting,N,,Labels,Toplama
+Color,N,,Labels,Renk
+Color,V/T/Imp,To color sth,Actions,Renklendir
+Color Blind,NP,,Labels,Renk Körü
+Color Blind Mode,NP,,Labels,Renk Körü Modu
+Colored,V/Past/Pass,Sth was colored by sb,Status,Renklendirildi
+Colored,ADJ,"A ""colored"" sth",Labels,Renklendirilmiş
+Coloring,N,In menus,Labels,Renklendirme
+Coloring,V/T/PrCon/Act,Sb is coloring sth,Actions,Renklendiriyor
+Colors,N/Pl,,Labels,Renkler
+Color Blindness,NP,,Labels,Renk Körlüğü
+Command,N,Program or key command,Labels,Komut
+Command,V/T/Imp,To command units etc.,Actions,Emret
+Command,N,Command building etc.,Labels,Komutanlık
+Commands,N/Pl,Program or key commands,Labels,Komutlar
+Common,ADJ,"A ""common"" item",Grades,Sıradan
+Communication,N,,Labels,İletişim
+Community,N,,Labels,Topluluk
+Compass,N,,Labels,Pusula
+Complete,V/T/Imp,To complete settings IM,Actions,Tamamla
+Complete,V/T/Imp,To complete a mission,Actions,Bitir
+Complete Mission,VP/Imp,,Actions,Görevi Bitir
+Completed,V/Past/Pass,Settings were completed,Status,Tamamlandı
+Completed,V/Past/Pass,Mission completed,Status,Bitirildi
+Composer,N,,Credits,Bestekâr
+CON,N/Abbr.,Character's stat,Labels,BÜN
+Concept Artist,NP,,Credits,Konsept Sanatçısı
+Concept Artists,NP/Pl,,Credits,Konsept Sanatçıları
+Confirm,V/T/Imp,To confirm ,Actions,Onayla
+Confirmed,V/Past/Pass,Sth was confirmed by sb,Status,Onaylandı
+Connection Lost,VP,,Sentences,Bağlantı Koptu
+Constitution,N,Character's stat,Labels,Bünye
+Consumable,ADJ,If it's a reusable,Labels,Tüketilebilir
+Consumable,ADJ,If it isn't resuable,Labels,Tek Kullanımlık
+Consumables,N/Pl,Reusable items,Labels,Tüketilebilirler
+Consumables,N/Pl,Non reusable items,Labels,Tek Kullanımlıklar
+Consume,V/T/Imp,To consume an item,Actions,Tüket
+Consume,V/T/Imp,To consume a soul,Actions,Soğur
+Consumed,V/Past/Pass,An item was consumed by sb,Status,Tüketildi
+Consumed,V/Past/Pass,A soul was consumed by sb,Status,Soğuruldu
+Consuming,V/PrCon/Act,Sb is consuming a soul etc.,Actions,Soğuruyor
+Consuming,V/PrCon/Act,Sb is consuming an item etc.,Actions,Tüketiyor
+Container,N,,Labels,Kutu
+Containers,N/Pl,,Labels,Kutular
+Continue,V/I/Imp,To continue,Actions,Devam Et
+Contrast,N,,Labels,Kontrast
+Control,N,A control,Labels,Kontrol
+Control,V/T/Imp,To control sth,Actions,Kontrol Et
+Control Scheme,NP,,Labels,Kontrol Şeması
+Control Schemes,NP/Pl,,Labels,Kontrol Şemaları
+Controller Scheme,NP,,Labels,Kontrolcü Şeması
+Controller Schemes,NP/Pl,,Labels,Kontrolcü Şemaları
+Controller Vibration,NP,,Labels,Kontrolcü Titreşimi
+Controls,N/Pl,,Labels,Kontroller
+Cook,V/T/Imp,To cook,Actions,Pişir
+Cook,N,"A cook, chef",Labels,Aşçı
+Cooked,ADJ,"A ""cooked"" item etc.",Labels,Pişmiş
+Cooked,V/Past/Pass,Sth or sb is cooked by sb,Status,Pişirildi
+Cooked Meat,NP,,Labels,Pişmiş Et
+Cookie,N,Cookie to eat,Labels,Kurabiye
+Cookie,N,Website cookies etc.,Labels,Çerez
+Cookies,N/Pl,Website cookies etc.,Labels,Çerezler
+Cookies,N/Pl,Cookies to eat,Labels,Kurabiyeler
+Cooking,N,"In menus, cooking skill etc.",Labels,Yemek Pişirme
+Cooldown,N,Skill cooldown,Labels,Bekleme Süresi
+Co-op,NP/Abbr.,,Labels,İşbirliği Modu
+Cooperative,N,,Labels,İşbirliği Modu
+Copper,N,,Labels,Bakır
+Copper Dagger,NP,,Labels,Bakır Hançer
+Copper Ingot,NP,,Labels,Bakır Külçe
+Copper Ingots,NP,,Labels,Bakır Külçeleri
+Copper Knife,NP,,Labels,Bakır Bıçak
+Copper Ore,NP,,Labels,Bakır Cevheri
+Copper Pickaxe,NP,,Labels,Bakır Kazma
+Copper Ring,NP,,Labels,Bakır Yüzük
+Coppers,N/Pl,,Labels,Bakırlar
+Cow,N,,Labels,İnek
+Cows,N/Pl,,Labels,İnekler
+Craft,V/T/Imp,To craft an item,Actions,Yap
+Craft,N,"A ""craft""",Labels,Zanaat
+Crafted,V/Past/Pass,Sth was crafted by sb,Status,Yapıldı
+Crafter,N,,Labels,Zanaatkâr
+Crafting,N,"In menus, crafting skill etc.",Labels,Zanaatkârlık
+Crafting,V/PrCon/Act,Sb is crafting sth,Actions,Yapıyor
+Crafting Skill,NP,,Labels,Zanaatkârlık Becerisi
+Craftsman,N,,Labels,Zanaatkâr
+Craftsmanship,N,Crafting skill etc.,Labels,Zanaatkârlık
+Crate,N,"Chest, container etc.",Labels,Sandık
+Crates,N/Pl,"Chests, containers etc.",Labels,Sandıklar
+Create,V/T/Imp,To create sth,Actions,Oluştur
+Create,V/T/Imp,To create sth living,Actions,Yarat
+Create a Group,VP/Imp,,Actions,Grup Oluştur
+Create a Lobby,VP/Imp,,Actions,Lobi Oluştur
+Create a Party,VP/Imp,,Actions,Parti Oluştur
+Create Account,VP/Imp,,Actions,Hesap Oluştur
+Create Group,VP/Imp,,Actions,Grup Oluştur
+Create Lobby,VP/Imp,,Actions,Lobi Oluştur
+Create Party,VP/Imp,,Actions,Parti Oluştur
+Create Player,VP/Imp,,Actions,Oyuncu Oluştur
+Created,V/Past/Pass,Sth was created by sb,Status,Oluşturuldu
+Created,V/Past/Pass,Sth living was created by sb,Status,Yaratıldı
+Creating,V/PrCon/Pass,Sb is creating sth,Actions,Oluşturuluyor
+Creating,N,Creating in menus etc.,Labels,Oluşturma
+Creating,V/PrCon/Act,Sb is creating sth living,Actions,Yaratıyor
+Creative Director,NP,,Credits,Yaratıcı Yönetmen
+Creative Directors,NP/Pl,,Credits,Yaratıcı Yönetmenler
+Creative Mode,NP,,Labels,Yaratıcı Modu
+Creator,N,In more artistic way,Labels,Yaratıcı
+Creator Mode,NP,,Labels,Yaratıcı Modu
+Creator Settings,NP,,Labels,Yaratıcı Ayarları
+Credits,N,,Labels,Jenerik
+Crest,N,,Labels,Arma
+Crests,N/Pl,,Labels,Armalar
+Cripple,V/T/Imp,To cripple sb,Actions,Sakatla
+Cripple,N,"A ""cripple"" sb",Labels,Sakat
+Crippled,V/Past/Pass,Sb was crippled by sb,Status,Sakatlandı
+Crippling,ADJ,"A ""crippling"" blow, item etc.",Labels,Sakatlayan
+Crippling Blow,NP,,Labels,Sakatlayıcı Vuruş
+Critical,N,,Labels,Kritik
+Critical Blow,NP,,Labels,Kritik Vuruş
+Critical Chance,NP,,Labels,Kritik İhtimali
+Critical Damage,NP,,Labels,Kritik Hasar
+Critical Hit,NP,,Labels,Kritik Vuruş
+Cross Platform,NP,,Genre,Çapraz Platform
+Cross Platform,NP,,Labels,Çapraz Platform
+Crossbow,N,,Labels,Arbalet
+Crossbows,N/Pl,,Labels,Arbaletler
+Crouch,V/I/Imp,To crouch,Actions,Eğil
+Crouched,V/Past/Act,Sb was crouched,Status,Eğildi
+Crouching,N,In menus etc.,Labels,Eğilme
+Crouching,V/PrCon/Act,Sb is crouching,Actions,Eğiliyor
+Crowbar,N,,Labels,Levye
+Crown,N,,Labels,Taç
+Cure,N,,Labels,Şifa
+Cure,V/I/Imp,To cure a status effect,Actions,Şifa Ver
+Cured,V/Past/Pass,Sb was cured by sb,Status,Şifa Verildi
+Curing,N,Curing skill etc. in menus,Labels,Şifa Verme
+Curing,V/PrCon/Act,Sb is curing sb,Actions,Şifa Veriyor
+Curse,V/T/Imp,"To curse sth or sb, magical",Actions,Lanetle
+Curse,N,"A ""curse"" in menus etc. magical",Labels,Lanet
+Curse Resistance,NP,Magical,Labels,Lanet Direnci
+Cursed,V/Past/Pass,Sb was cursed by sb or sth,Status,Lanetlendi
+Cursed,ADJ,"A ""cursed"" thing, magical",Labels,Lanetli
+Cursing,V/PrCon/Act,"Sb is cursing sth or sb, magical",Actions,Lanetliyor
+Cursor,N,Cursor in screen,Labels,İşaretçi
+Curved Sword,NP,,Labels,Kavisli Kılıç
+Custom,ADJ,"In menus, settings, custom",Grades,Özel
+Custom Settings,NP,,Labels,Özel Ayarlar
+Customize,V/T/Imp,To customize,Actions,Özelleştir
+Customize Controls,VP/Imp,To customize,Actions,Kontrolleri Özelleştir
+Customized,V/Past/Pass,Sth was customized by sb,Status,Özelleştirildi
+Cutscene,NP,,Credits,Ara Sahne
+Cutscenes,NP/Pl,,Credits,Ara Sahneler
+Cyborg,N,,Labels,Siborg
+Cyborg,NP,,Labels,Sibernetik Organizma
+Cyborgs,N/Pl,,Labels,Siborglar
+Cyborgs,NP/Pl,,Labels,Sibernetik Organizmalar
+Cycle Firing Mode,VP/Imp,To cycle firing mode,Actions,Ateşleme Modunu Değiştir
+Dagger,N,"A ""dagger""",Labels,Hançer
+Dagger,N,To dagger ,Actions,Hançerle
+Daggers,N/Pl,,Labels,Hançerler
+Daily,ADJ,,Labels,Günlük
+Daily Mission,NP,,Labels,Günlük Görev
+Daily Missions,NP/Pl,,Labels,Günlük Görevler
+Damage,N,,Labels,Hasar
+Damage,V/I/Imp,To damage sth or sb,Actions,Hasar Ver
+Damage Per Second,NP,,Labels,Saniye Başına Hasar
+Dash,V/I/Imp,To dash,Actions,Atıl
+Dashed,V/Past/Act,Sb was dashed,Status,Atıldı
+Dashing,V/PrCon/Act,Sb is dashing,Actions,Atılıyor
+Dashing,N,"In menus, skill etc.",Labels,Atılma
+Data,N,,Labels,Veri
+Data Usage,NP,,Labels,Veri Kullanımı
+Data Usage Agreement,NP,,Labels,Veri Kullanımı İzni
+Database,N,,Labels,Veri Tabanı
+Dead,ADJ,"""Dead"" person",Labels,Ölü
+Dead Zone,NP,,Labels,Ölü Bölge
+Deadzone,NP,,Labels,Ölü Bölge
+Death,N,Death,Labels,Ölüm
+Death,N,Angel of death,Labels,Azrail
+Death Cam,NP,,Labels,Ölüm Kamerası
+Deathmatch,NP,,Labels,Ölüm Karşılaşması
+Deaths,N/Pl,,Labels,Ölümler
+Decelerate,V/I/Imp,To slow a vehicle,Actions,Yavaşla
+Deceleration,N,"In menus, controls etc.",Labels,Yavaşlama
+Decline,V/T/Imp,To decline a thing,Actions,Reddet
+Decoration,N,,Labels,Dekorasyon
+Decorations,N/Pl,,Labels,Dekorasyonlar
+Decoy Grenade,NP,,Labels,Yanıltıcı Bomba
+Decrease Camera Speed,VP/Imp,,Actions,Kamera Hızını Düşür
+Decrease Play Speed,VP/Imp,,Actions,Oynanış Hızını Düşür
+Decrease Throttle,VP/Imp,,Actions,Hız Kes
+Default,N,Some settings set to default,Grades,Varsayılan
+Default Settings,NP,,Labels,Varsayılan Ayarlar
+Default System Device,NP,,Labels,Varsayılan Sistem Aygıtı
+Defeat,N,,Labels,Bozgun
+Defeat,V/T/Imp,To defeat ,Actions,Bozguna Uğrat
+Defeated,V/Past/Pass,Sb was defeated by sb,Status,Bozguna Uğradı
+Defence,N,In items etc,Labels,Savunma
+Defend,V/T/Imp,To defend,Actions,Savun
+Defended,V/Past/Pass,Sb was defended by sb,Status,Savunuldu
+Defender,N,Defender team,Labels,Savunan
+Defending,V/PrCon/Act,Sb is defending,Actions,Savunuyor
+Deflect,V/T/Imp,To deflect an attack,Actions,Saptır
+Deflected,V/Past/Pass,An attack was deflected by sb,Status,Saptırıldı
+Deflected,ADJ,"A ""deflected"" thing",Labels,Saptırılmış
+Deflecting,N,In menus etc.,Labels,Saptırma
+Deflecting,V/PrCon/Act,Sb is deflecting,Actions,Saptırıyor
+Deity,N,Difficulty options,Grades,İlah
+Delete,V/T/Imp,To delete,Actions,Sil
+Delete Character,VP/Imp,To delete,Actions,Karakteri Sil
+Demo,N,,Labels,Demo
+Demon,N,,Labels,İblis
+Depth,N,,Labels,Derinlik
+Depth of Field,NP,,Labels,Alan Derinliği
+Descend,V/T/Imp,"To descend a skill, item etc.",Actions,Düşür
+Descend,V/I/Imp,"To scroll down, move down",Actions,İn
+Description,N,,Labels,Açıklama
+Descriptions,N/Pl,,Labels,Açıklamalar
+Design,V/T/Imp,To design sth,Actions,Tasarla
+Design Director,NP,,Credits,Tasarım Yönetmeni
+Design Directors,NP/Pl,,Credits,Tasarım Yönetmenleri
+Designed,V/Past/Pass,Sth was designed by sb,Status,Tasarlandı
+Designed,ADJ,"A ""designed"" item etc. IM",Labels,Tasarlanmış
+Designing,N,"Character's designing skill, IM",Labels,Tasarlama
+Destroy,V/T/Imp,To destroy sth,Actions,Yok Et
+Destroyed,V/Past/Pass,Sth was destroyed by sb,Status,Yok Edildi
+Destroyer,N,Title,Labels,Yok Edici
+Destroying,V/PrCon/Act,Sb is destroying sth,Actions,Yok Ediyor
+Destroying,ADJ,"A ""destroying"" item",Labels,Yok Eden
+Developed by,VP,,Credits,Tarafından Geliştirildi
+Developer,N,,Credits,Geliştirici
+Device,N,"Keyboard, controller etc.",Labels,Cihaz
+Devices,N/Pl,"Keyboard, controller etc.",Labels,Cihazlar
+DEX,Abbr.,Character stat,Labels,ÇEV
+Dexterity,N,Character stat,Labels,Çeviklik
+Dialogues,N/Pl,,Labels,Diyaloglar
+Diamond,N,,Labels,Elmas
+Diamond Ore,NP,,Labels,Elmas Cevheri
+Dice,N,A dice,Labels,Zar
+Dice,V/I/Imp,To roll a dice,Actions,Zar At
+Die,V/I/Imp,To die,Actions,Öl
+Died,V/Past/Act,Sb died,Status,Öldü
+Difficulties,N/Pl,,Labels,Zorluklar
+Difficulty,N,,Labels,Zorluk
+Difficulty Options,NP,,Labels,Zorluk Seçenekleri
+Dig,V/T/Imp,To dig earth etc.,Actions,Kaz
+Director,N,,Credits,Yönetmen
+DirectX Version,NP,,Labels,DirectX Sürümü
+Dirt,N,"Earth, ground",Labels,Toprak
+Dirt Bike,NP,,Labels,Arazi Motosikleti
+Dirty,ADJ,"A ""dirty"" item",Labels,Kirli
+Disable,VP/Imp,To disable a setting etc.,Actions,Devre Dışı Bırak
+Disable All Sound,VP/Imp,,Actions,Tüm Sesleri Devre Dışı Bırak
+Disabled,V/Past/Act,"Sb disabled a setting, device",Status,Devre Dışı
+Discard,V/I/Imp,"To discard a change, a move",Actions,Vazgeç
+Discard,V/T/Imp,To discard an item etc.,Actions,Bırak
+Discard Selected Number,VP/Imp,Items etc.,Actions,Seçili Sayıda Bırak
+Discover,V/T/Imp,To discover,Actions,Keşfet
+Discovered,V/Past/Pass,Some place was discovered by sb,Status,Keşfedildi
+Discoverer,N,,Labels,Kaşif
+Discovering,V/PrCon/Act,Sb is discovering ,Actions,Keşfediyor
+Discovery,N,,Labels,Keşif
+Discovery,N,,Genre,Keşif
+Display,V/T/Imp,To display,Actions,Görüntüle
+Display,N,"""Display"" in menus, item etc.",Labels,Ekran
+Display Blood,NP,,Labels,Kan Gösterimi
+Display Configuration,NP,,Labels,Görüntü Yapılandırması
+Display Mode,NP,,Labels,Görüntüleme Modu
+Display Settings,NP,,Labels,Görüntü Ayarları
+Displaying,V/PrCon/Act,,Actions,Görüntülüyor
+Dive,V/I/Imp,To dive while swimming etc.,Actions,Dal
+Dive,V/I/Imp,To dive inside of a group etc.,Actions,İçeri Gir
+Dived,V/Past/Pass,Sb dived,Status,Daldı
+Diving,V/PrCon/Act,Sb is diving ,Actions,Dalıyor
+DLC,NP/Acr.,Downloadable content,Labels,İndirilebilir İçerik
+DLCs,NP/Acr.,Downloadable contents,Labels,İndirilebilir İçerikler
+Dodge,V/I/Imp,To dodge,Actions,Kaçın
+Dodged,V/Past/Pass,Sth was dodged by sb,Status,Kaçındı
+Dodging,V/PrCon/Act,Sb is dodging,Actions,Kaçınıyor
+Dodging,N,Dodging skill etc. IM,Labels,Kaçınma
+Dog,N,,Labels,Köpek
+Dogs,N/Pl,,Labels,Köpekler
+Done,V/Past/Pass,Settings was done etc.,Status,Tamamlandı
+Done,V/Past/Pass,Mission was done etc.,Status,Bitti
+Door,N,,Labels,Kapı
+Door Key,NP,,Labels,Kapı Anahtarı
+Doors,N/Pl,,Labels,Kapılar
+Double-Click,NP,,Labels,Çift Tıklama
+Down,Prep.,,Labels,Aşağı
+Download,V/T/Imp,To download,Actions,İndir
+Downloadable Content,NP,,Labels,İndirilebilir İçerik
+Downloadable Contents,NP/Pl,,Labels,İndirilebilir İçerikler
+Downloading,V/PrCon/Act,Sth is downloading,Labels,İndiriliyor
+Downloads,N/Pl,,Labels,İndirmeler
+DPS,Acr.,,Labels,SBH
+Drag,V/I/Imp,To drag sth in menus,Actions,Sürükle
+Drag and Drop,V/I/Imp,To drag and drop sth in menus,Actions,Sürükle ve Bırak
+Dragon,N,,Labels,Ejderha
+Dragons,N/Pl,,Labels,Ejderhalar
+Drink,N,Alcoholic drink,Labels,İçki
+Drink,N,Non alcoholic drink,Labels,İçecek
+Drinks,N/Pl,Non alcoholic drinks,Labels,İçecekler
+Drinks,N/Pl,Alcoholic drinks,Labels,İçkiler
+Drink,V/T/Imp,To drink sth,Actions,İç
+Drinking,V/PrCon/Act,Sb drinking sth,Actions,İçiyor
+Drunk,V/Past/Pass,Sth drunk by sb,Status,İçildi
+Drunken,ADJ,"A ""drunken"" person",Labels,Sarhoş
+Drive,V/T/Imp,To drive,Actions,Sür
+Driver,N,,Labels,Sürücü
+Drivers,N/Pl,,Labels,Sürücüler
+Driving,V/PrCon/Act,Sb is driving ,Actions,Sürüyor
+Drop,V/T/Imp,To drop an item etc.,Actions,Bırak
+Dropped,V/Past/Pass,An item was dropped by sb,Status,Düşürüldü
+Drowse,V/T/Imp,To drowse sb,Actions,Uyut
+Drowsed,ADJ,"A ""drowsed"" sb",Labels,Uykulu
+Drowsing,V/PrCon/Pass,Sb drowsing sb,Actions,Uyutuluyor
+Drowsing,N,In menus etc.,Labels,Uyutma
+Drowsing Resistance,NP,,Labels,Uyutulma Direnci
+Dry,ADJ,"A ""dry"" cloth",Labels,Kuru
+Dual Wielding,NP,,Labels,Çift Kuşanma
+Duel,V/I/Imp,To duel,Actions,Düello Yap
+Duel,N,,Labels,Düello
+Duelist,N,,Labels,Düellocu
+Dungeon,N,,Labels,Zindan
+Dungeon Finder,NP,,Labels,Zindan Bulucu
+Dungeons,N/Pl,,Labels,Zindanlar
+Duplicate,V/T/Imp,To duplicate an item etc.,Actions,Çoğalt
+Duplicate,N,"A ""duplicate"" item",Labels,Kopya
+Duplicated,V/Past/Pass,Sth was duplicated by sb,Status,Çoğaltıldı
+Duplicating,N,"In menus, controls etc.",Labels,Çoğaltma
+Durability,N,"Weapon, armor durability",Labels,Sağlamlık
+Duration,N,,Labels,Süre
+Dwarf,N,,Labels,Cüce
+Dwarfs,N/Pl,,Labels,Cüceler
+Dye,N,,Labels,Boya
+Dye,N,,Actions,Boya
+Dyes,N/Pl,,Labels,Boyalar
+Dying,ADJ,"A ""dying"" sb etc.",Labels,Ölen
+Dying,V/PrCon/Act,Sb is dying,Actions,Ölüyor
+Dynamic Camera,NP,,Labels,Hareketli Kamera
+Ear,N,,Labels,Kulak
+Ears,N/Pl,,Labels,Kulaklar
+Earth,N,World,Labels,Dünya
+Earth,N,Ground,Labels,Toprak
+Earth Damage,NP,,Labels,Toprak Hasarı
+Earth Resistance,NP,,Labels,Toprak Direnci
+Easy,ADJ,Difficulty etc.,Grades,Kolay
+E-Brake,N,,Labels,El Freni
+Edit,V/T/Imp,To edit sth,Actions,Düzenle
+Edit Profile,VP/Imp,,Actions,Profili Düzenle
+Edited,V/Past/Pass,Sth was edited by sb,Status,Düzenlendi
+Editing,V/PrCon/Pass,Sb is editing,Actions,Düzenleniyor
+Editing,N,In menus etc.,Labels,Düzenleme
+Effect,V/T/Imp,To effect,Actions,Etkile
+Effect Detail,NP,,Labels,Efekt Detayı
+Effect Details,NP/Pl,,Labels,Efekt Detayları
+Effected,V/Past/Pass,Sb or sth was effected by sb,Status,Etkilendi
+Effecting,V/PrCon/Act,Sb is effecting,Actions,Etkiliyor
+Effecting,N,,Labels,Etkileme
+Effects,N/Pl,Graphic effects etc.,Labels,Efektler
+Effects,N/Pl,Status effects etc.,Labels,Etkiler
+Effects Quality,NP,,Labels,Efekt Kalitesi
+Egg,N,,Labels,Yumurta
+Eggs,N/Pl,,Labels,Yumurtalar
+Eject,V/T/Imp,To eject,Actions,Fırlat
+Ejected,V/Past/Pass,Sb was ejected,Status,Fırlatıldı
+Elf,N,,Labels,Elf
+Elves,N/Pl,,Labels,Elfler
+E-Mail,NP/Abbr.,,Labels,E-Posta
+Emerald,N,,Labels,Zümrüt
+Emerald Ore,NP,,Labels,Zümrüt Cevheri
+Emote,V/I/Imp,To emote,Actions,İfade Kullan
+Emote,N,An emote,Labels,İfade
+Emotes,N/Pl,,Labels,İfadeler
+Empty,ADJ,,Labels,Boş
+Empty Slot,NP,Empty place,Labels,Boş Alan
+Empty Slot,NP,In item etc.,Labels,Boş Yuva
+Enable,V/T/Imp,To enable,Actions,Etkinleştir
+Enable Edge Panning,VP/Imp,To enable,Actions,Kenardan Kaydırmayı Etkinleştir
+Enable Language Filter,VP/Imp,,Actions,Dil Filtresini Etkinleştir
+Enable Music,VP/Imp,,Actions,Müziği Etkinleştir
+Enable SFX,VP/Imp,,Actions,Ses Efektlerini Etkinleştir
+Enable SFX,VP/Imp,,Actions,Özel Efektleri Etkinleştir
+Enable Sound,VP/Imp,,Actions,Sesi Etkinleştir
+Enabled,V/Past/Pass,Sth was enabled by sb,Status,Etkinleştirildi
+Enables Sounds,VP/Imp,,Actions,Sesleri Etkinleştir
+Enchant,V/T/Imp,To enchant,Actions,Efsunla
+Enchanted,V/Past/Pass,Sth was enchanted,Status,Efsunlandı
+Enchanter,N,,Labels,Efsuncu
+Enchanting,N,"In menus, character's skill etc.",Labels,Efsunlama
+Enchanting,V/PrCon/Act,Sb is enchanting sth,Actions,Efsunluyor
+Encounter,N,An encounter with sth or sb,Labels,Karşılaşma
+Encountered,V/Past/Pass,Sth or sb encountered by sb,Status,Karşılaşıldı
+Encumbrance,N,Backpack weight etc.,Labels,Yük
+END,N/Abbr.,Character stat,Labels,DAY
+Endurance,N,Character stat,Labels,Dayanıklılık
+Endure,V/I/Imp,To endure against sth,Actions,Dayan
+Enemies,N/Pl,,Labels,Düşmanlar
+Enemy,N,,Labels,Düşman
+Enemy Damage,NP,,Labels,Düşman Hasarı
+Energy,N,,Labels,Enerji
+Energy Shield,NP,,Labels,Enerji Kalkanı
+Energy Shields,NP/Pl,,Labels,Enerji Kalkanları
+English,N,,Labels,İngilizce
+Enhance,V/T/Imp,To enhance sth,Actions,Geliştir
+Enhanced,V/Past/Pass,Sth was enhanced by sb,Status,Geliştirildi
+Enhancing,N,"In menus, character skill etc.",Labels,Geliştirme
+Enhancing,V/PrCon/Act,Sb is enhancing,Actions,Geliştiriyor
+Environment,N,,Labels,Çevre
+Environment Artist,NP,,Credits,Çevre Sanatçısı
+Environment Quality,NP,,Labels,Çevre Kalitesi
+Epic,ADJ,An item or graphic quality,Grades,Epik
+Equip,V/T/Imp,To equip an item,Actions,Kuşan
+Equipment,N,,Labels,Ekipman
+Equipments,N/Pl,,Labels,Ekipmanlar
+Equipped,V/Past/Pass,Sth was equipped by sb,Status,Kuşanıldı
+Error Code,NP,,Labels,Hata Kodu
+ESC,Abbr.,ESC key in keyboard,Labels,ESC
+Escape,V/I/Imp,To run from a battle etc.,Actions,Kaç
+Escape,V/I/Imp,To leave ,Actions,Çık
+Escape,N,ESC key in keyboard,Labels,Escape
+Escaped,V/Past/Act,Sb escaped,Status,Kaçtı
+Event,N,,Labels,Etkinlik
+Events,N/Pl,,Labels,Etkinlikler
+Executive Producer,NP,,Credits,İdari Yapımcı
+Executive Producers,NP/Pl,,Credits,İdari Yapımcılar
+Exit,V/I/Imp,To leave,Actions,Çık
+Exit,N,In menus etc.,Labels,Çıkış
+Exit to Desktop,VP/Imp,To exit,Actions,Masaüstüne Dön
+Exit to Desktop?,Interrogative,,Sentences,Masaüstüne Dönülsün mü?
+Exit to Desktop?,Interrogative,,Sentences,Masaüstüne Dön?
+Exit to Lobby,VP/Imp,To exit,Actions,Lobiye Dön
+Exit?,Interrogative,,Sentences,Çıkılsın mı?
+Exit?,Interrogative,,Sentences,Çıkış Yapılsın mı?
+EXP,Acr.,Experience point,Labels,TP
+Expand,V/T/Imp,To expand sth,Actions,Genişlet
+Experience,N,,Labels,Tecrübe
+Experience Point,NP,,Labels,Tecrübe Puanı
+Experience Points,NP,,Labels,Tecrübe Puanı
+Expert,ADJ,Difficulty option etc.,Grades,Uzman
+Explosive,N,,Labels,Patlayıcı
+Explosive Arrow,NP,,Labels,Patlayıcı Ok
+Extras,N/Pl,,Labels,Ekstralar
+Eye,N,,Labels,Göz
+Eyes,N/Pl,,Labels,Gözler
+Face,N,,Labels,Yüz
+Facial Features,NP,,Labels,Yüz Özellikleri
+FAI,Abbr.,Character's stat,Labels,İNA
+Faith,N,Character's stat,Labels,İnanç
+Fantasy,NP,,Genre,Hayal Ürünü
+Fantasy Game,NP,,Genre,Hayal Ürünü
+Far Away,ADV,Sb or sth is far away,Status,Çok Uzakta
+Farm,N,"A farming place, building.",Labels,Çiftlik
+Farm,V/T/Imp,To farm vegetable,Actions,Yetiştir
+Farm,V/T/Imp,To farm exp or item,Actions,Kas
+Farming,N,Vegetable farming skill etc. IM,Labels,Çiftçilik
+Farming Game,NP,,Genre,Çiftçilik Oyunu
+Farming,N,Item or exp farming,Labels,Kasma
+Feet,N/Pl,,Labels,Ayaklar
+Feet Armour,NP/Pl,,Labels,Ayak Zırhları
+Female,N,,Labels,Kadın
+Fence,N,,Labels,Çit
+Fences,N/Pl,,Labels,Çitler
+FIN,Abbr.,Character's stat,Labels,KUR
+Fidelityfx CAS,N,,Labels,Fidelityfx CAS
+Field of View,NP,,Labels,Görüş Alanı
+Fighter,N,A character class etc.,Labels,Dövüşçü
+Fight Game,NP,,Genre,Dövüş Oyunu
+Fighter,N,A plane class,Labels,Avcı
+File Location,NP,,Labels,Dosya Konumu
+Filtering Mode,NP,,Labels,Filtreleme Modu
+Finesse,N,Character's stat,Labels,Kurnazlık
+Finger,N,,Labels,Parmak
+Fingers,N/Pl,,Labels,Parmaklar
+Fire,V/I/Imp,To fire a firearm,Actions,Ateş Et
+Fire,N,Flames when something burns,Labels,Ateş
+Fire,V/T/Imp,To fire a person etc.,Actions,Kov
+Fire,V/T/Imp,"To fire a crosbow, non firearm",Actions,Fırlat
+Fire Arrow,NP,,Labels,Ateş Oku
+Fire Attack,NP,,Labels,Ateş Saldırısı
+Fire Damage,NP,,Labels,Ateş Hasarı
+Fire Resistance,NP,,Labels,Ateş Direnci
+Firework,NP,,Labels,Havai Fişek
+Fireworks,NP/Pl,,Labels,Havai Fişekler
+Firing,N,"In menus, firearms",Labels,Ateş Etme
+Firing Mode,NP,"In menus, weapons",Labels,Ateşleme Modu
+Firing Modes,NP/Pl,"In menus, weapons",Labels,Ateşleme Modları
+First Aid Kit,NP,,Labels,İlk Yardım Çantası
+First Name,N,,Labels,Adı
+First Person,NP,Camera etc.,Labels,Birinci Şahıs
+First Person Camera,NP,,Labels,Birinci Şahıs Kamerası
+First Person Shooter,NP,,Labels,Birinci Şahıs Nişancı
+First Person View,NP,,Labels,Birinci Şahıs Bakış Açısı
+First Place,ADJ,Sb placed in first,Grades,Birinci
+Fishing Rod,N,,Labels,Olta
+Fist Weapon,NP,,Labels,Yumruk Silahı
+Flail,N,,Labels,Gürz
+Flails,N/Pl,,Labels,Gürzler
+Flame,N,,Labels,Alev
+Flash,V/I/Imp,To jump in a blink of an eye,Actions,Sıçra
+Flashed,V/Past/Act,"Sb jumped, dashed",Status,Sıçradı
+Flashing,V/PrCon/Act,"Sb is jumping, dashed",Actions,Sıçrıyor
+Flashing,N,"In menus, dashing, jumping",Labels,Sıçrama
+Flashlight,N,,Labels,El Feneri
+Fled,V/Past/Act,Sb run away,Status,Kaçtı
+Flee,V/I/Imp,To run away from battle etc.,Actions,Kaç
+Fleeing,V/PrCon/Act,Sb is running away,Actions,Kaçıyor
+Flew,V/Past/Act,Sb flew,Status,Uçtu
+Flint,N,,Labels,Çakmak Taşı
+Flint and Steel,N-N,,Labels,Çakmaktaşı ve Çelik
+Flower,N,,Labels,Çiçek
+Flowers,N/Pl,,Labels,Çiçekler
+Fly,V/I/Imp,To fly,Actions,Uç
+Flying,V/PrCon/Act,Sb is flying,Actions,Uçuyor
+Focus,V/I/Imp,To focus,Actions,Odaklan
+Focused,V/Past/Act,Sb focused,Status,Odaklandı
+Focusing,V/PrCon/Act,Sb is focusing,Actions,Odaklanıyor
+Focusing,N,In menus etc.,Labels,Odaklanma
+Folder,N,,Labels,Klasör
+Folder Location,NP,,Labels,Klasör Konumu
+Foley Artist,NP,,Credits,Foley Sanatçısı
+Foley Artists,NP,,Credits,Foley Sanatçıları
+Foliage,N,,Labels,Yeşillik
+Font,NP,,Labels,Yazı Tipi
+Font Size,NP,,Labels,Yazı Boyutu
+Fonts,NP,,Labels,Yazı Tipleri
+Food,N,,Labels,Yemek
+Foot,N,,Labels,Ayak
+Foot Armour,NP,,Labels,Ayak Zırhı
+For More Information,Expression,,Sentences,Daha Fazla Bilgi İçin
+Forgot Password,Expression,,Sentences,Parolamı Unuttum
+Fortification,N,"Act of fortification, IM etc.",Labels,Sağlamlaştırma
+Fortify,V/T/Imp,To fortify,Actions,Sağlamlaştır
+Fortifying,V/PrCon/Act,Sb is fortifying,Actions,Sağlamlaştırıyor
+FOV,Acr.,Field of view,Labels,Görüş Alanı
+FPS,Acr.,First person shooter,Genre,Birinci Şahıs Nişancı
+FPS,Acr.,Frame per second,Labels,FPS
+Frame Cap,NP,,Labels,Kare Hızı Sınırı
+Frame Cap Enabled,S,,Status,Kare Hızı Sınırı Etkinleştirildi
+Frame Per Second,NP,,Labels,Saniye Başına Kare Sayısı
+Frame Rate,NP,,Labels,Kare Hızı
+Frame Rate Cap,NP,,Labels,Kare Hızı Sınırı
+Free,ADJ,Costing nothing,Labels,Ücretsiz
+Free,VP/Imp,To free sth or sb,Actions,Serbest Bırak
+Free,ADJ,Not a restricted,Labels,Serbest
+Free,ADJ,Not under the control,Labels,Özgür
+Freed,V/Past/Pass,Sb was freed by sb,Status,Serbest Bırakıldı
+Free For All,Expression,,Labels,Herkes Tek
+Free Look,NP,,Labels,Serbest Bakış
+Freeze,V/T/Imp,To freeze,Actions,Dondur
+Freeze Resistance,NP,,Labels,Donma Direnci
+Freezing,V/PrCon/Act,Sb is freezing,Actions,Donduruyor
+Freezing,ADJ,"A ""freezing"" item etc.",Labels,Dondurucu
+Friends,N/Pl,,Labels,Arkadaşlar
+Friends Only,NP,,Labels,Sadece Arkadaşlar
+Frozen,V/Past/Pass,Sb was frozen by sb,Status,Donduruldu
+Frozen,ADJ,"A ""frozen"" item etc.",Labels,Donmuş
+Frustrate,V/T/Imp,To frustrate sb,Actions,Sinirlendir
+Frustrated,V/Past/Act,Sb was frustrated by sb,Status,Sinirlendi
+Frustrating,V/PrCon/Act,Sb is frustrating,Actions,Sinirlendiriyor
+Frustrating,N,"In menus, items etc.",Labels,Sinirlendirme
+FSR,Acr.,,Labels,FSR
+Fuel,N,,Labels,Yakıt
+Full,ADJ,Graphic options etc.,Grades,Tam
+Full Screen,NP,,Labels,Tam Ekran
+Full Speed,NP,,Labels,Tam Hız
+Fullscreen,NP,,Labels,Tam Ekran
+Fur,N,,Labels,Kürk
+Furnace,N,,Labels,Ocak
+FXAA,Acr.,,Labels,FXAA
+Game,N,,Labels,Oyun
+Game Design,NP,,Credits,Oyun Tasarımı
+Game Developer,NP,,Credits,Oyun Geliştiricisi
+Game Development,NP,,Credits,Oyunu Geliştiren
+Game Over,Expression,,Sentences,Oyun Bitti
+Game Settings,NP,,Labels,Oyun Ayarları
+Game Speed,NP,,Labels,Oyun Hızı
+Game Type,NP,,Labels,Oyun Türü
+Game Version,NP,,Labels,Oyun Sürümü
+Gamepad,NP,,Labels,Oyun Kumandası
+Gamepad Settings,NP,,Labels,Oyun Kumandası Ayarları
+Gameplay,N,,Labels,Oynanış
+Gameplay Options,NP,,Labels,Oynanış Seçenekleri
+Gamma,N,,Labels,Gama
+Gamma Correction,NP,,Labels,Gama düzeltmesi
+Gate,N,,Labels,Kapı
+Gates,N/Pl,,Labels,Kapılar
+Gateway,N,,Labels,Geçit
+Gauntlet,NP,,Labels,Zırh Eldiveni
+Gauntlets,NP/Pl,,Labels,Zırh Eldivenleri
+Gear,N,Equipment,Labels,Ekipman
+Gear,N,Parts,Labels,Çark
+Gear,N,Car gear,Labels,Vites
+Gears,N/Pl,Equipments,Labels,Ekipmanlar
+Gears,N/Pl,Parts,Labels,Çarklar
+Gem,NP,,Labels,Değerli Taş
+Gems,NP/Pl,,Labels,Değerli Taşlar
+Gender,N,,Labels,Cinsiyet
+General,N,In menus etc.,Labels,Genel
+General,N,"Commander, military",Labels,General
+General Sensitivity,NP,,Labels,Genel Hassasiyet
+General Settings,NP,,Labels,Genel Ayarlar
+Genre,N,,Labels,Tür
+Gesture,V/T/Imp,To point,Actions,İşaret Et
+Gesture,V/T/Imp,To emote,Actions,İfade Et
+Gestures,N/Pl,Emotes,Labels,İfadeler
+Get Started,V/I/Imp,To start,Actions,Başla
+Ghost,N,,Labels,Hayalet
+Gift,V/T/Imp,To gift,Actions,Hediye Et
+Gift,N,A gift,Labels,Hediye
+Gifted,V/Past/Pass,Sb was gifted ,Status,Hediye Edildi
+Gifting,N,In menus etc. act of gifting,Labels,Hediye Etme
+Gifts,N/Pl,,Labels,Hediyeler
+Glass,N,Glass in windows,Labels,Cam
+Glasses,N/Pl,Glasses for wearing,Labels,Gözlükler
+Global Illumination,NP,,Labels,Küresel Işıklandırma
+Global Illumination Quality,NP,,Labels,Küresel Işıklandırma Kalitesi
+Glove,N,,Labels,Eldiven
+Gloves,N/Pl,,Labels,Eldivenler
+Go,V/I/Imp,To start ,Actions,Başla
+Go,V/I/Imp,To go forward,Actions,Git
+God,N,,Labels,Tanrı
+Goddess,N,,Labels,Tanrıça
+Goddesses,N/Pl,,Labels,Tanrıçalar
+Gods,N/Pl,,Labels,Tanrılar
+Going,V/PrCon/Act,Sb is going,Actions,Gidiyor
+Gold,N,,Labels,Altın
+Gold Armour,NP,,Labels,Altın Zırh
+Gold Axe,NP,,Labels,Altın Balta
+Gold Boots,NP,,Labels,Altın Çizmeler
+Gold Bracer,NP,,Labels,Altın Kol Zırhı
+Gold Bracers,NP,,Labels,Altın Kol Zırhları
+Gold Hatchet,NP,,Labels,Altın Küçük Balta
+Gold Helmet,NP,,Labels,Altın Kask
+Gold Hoe,NP,,Labels,Altın Çapa
+Gold Ingot,NP,,Labels,Altın Külçe
+Gold Katana,NP,,Labels,Altın Katana
+Gold Leggings,NP,,Labels,Altın Bacak Zırhları
+Gold Medal,NP,,Grades,Altın Madalya
+Gold Nugget,NP,,Labels,Altın Parçası
+Gold Ore,NP,,Labels,Altın Cevheri
+Gold Shield,NP,,Labels,Altın Kalkan
+Gold Sword,NP,,Labels,Altın Kılıç
+Golden Armour,NP,,Labels,Altın Zırh
+Golden Axe,NP,,Labels,Altın Balta
+Golden Boots,NP,,Labels,Altın Çizmeler
+Golden Bracer,NP,,Labels,Altın Kol Zırhı
+Golden Bracers,NP,,Labels,Altın Kol Zırhları
+Golden Great Axe,NP,,Labels,Altın Büyük Balta
+Golden Great Hammer,NP,,Labels,Altın Büyük Çekiç
+Golden Hammer,NP,,Labels,Altın Çekiç
+Golden Helmet,NP,,Labels,Altın Kask
+Golden Hoe,NP,,Labels,Altın Çapa
+Golden Katana,NP,,Labels,Altın Katana
+Golden Knife,NP,,Labels,Altın Bıçak
+Golden Leggings,NP,,Labels,Altın Bacak Zırhları
+Golden Pickaxe,NP,,Labels,Altın Kazma
+Golden Shield,NP,,Labels,Altın Kalkan
+Golden Spear,NP,,Labels,Altın Mızrak
+Golden Sword,NP,,Labels,Altın Kılıç
+Gone,V/Past/Act,Sb is gone,Status,Gitti
+Goodbye,Expression,,Sentences,Güle Güle
+Grab,V/T/Imp,To catch sth,Actions,Yakala
+Grab,V/T/Imp,To grab sth from ground,Actions,Yerden Al
+Grabbed,V/Past/Pass,Sb was catched,Status,Yakalandı
+Grabbed,V/Past/Pass,Sth was grabbed from ground,Status,Yerden Alındı
+Graphic,N,,Labels,Grafik
+Graphic Designer,NP,,Credits,Grafik Tasarımcısı
+Graphic Designers,NP,,Credits,Grafik Tasarımcıları
+Graphics,N/Pl,,Labels,Grafikler
+Grass,N,,Labels,Çim
+Grass Quality,NP,,Labels,Çimen Kalitesi
+Grave,N,Where dead person is buried,Labels,Mezar
+Gravel,N,,Labels,Çakıl
+Great Axe,NP,,Labels,Büyük Balta
+Great Axes,NP/Pl,,Labels,Büyük Baltalar
+Great Bow,NP,,Labels,Büyük Yay
+Great Bows,NP/Pl,,Labels,Büyük Yaylar
+Great Hammer,NP,,Labels,Büyük Çekiç
+Great Hammers,NP/Pl,,Labels,Büyük Çekiçler
+Great Spear,NP,,Labels,Büyük Mızrak
+Great Sword,NP,,Labels,Büyük Kılıç
+Great Swords,NP/Pl,,Labels,Büyük Kılıçlar
+Greave,N,,Labels,Dizlik
+Greaves,N/Pl,,Labels,Dizlikler
+Grenade,N,,Labels,El Bombası
+Grenades,N/Pl,,Labels,El Bombaları
+Guard,V/T/Imp,To guard sb,Actions,Koru
+Guard,V/I/Imp,To guard but in fighting sports,Actions,Gardını Al
+Guard,N,A guard who guards,Labels,Muhafız
+Guarded,V/Past/Pass,"Sb guarded, fighting sports",Status,Gard Alındı
+Guarded,V/Past/Pass,Sb was guarded by sb,Status,Korundu
+Guarding,N,"Sb is guarding, in fighting sport",Labels,Gardını Alma
+Guarding,V/PrCon/Act,Sb is guarding sb,Actions,Koruyor
+Guards,N,Guards who guard,Labels,Muhafızlar
+Gun,NP,"General guns, all firearms",Labels,Ateşli Silah
+Gun,N,Pistols,Labels,Tabanca
+Guns,NP,"General guns, all firearms",Labels,Ateşli Silahlar
+Guns,N/Pl,Pistols,Labels,Tabancalar
+Gyroscope,N,,Labels,Jiroskop
+Hair,N,,Labels,Saç
+Hair Colour,NP,,Labels,Saç Rengi
+Hair Style,NP,,Labels,Saç Stili
+Hair Styles,NP,,Labels,Saç Stilleri
+Halberd,NP,,Labels,Baltalı Kargı
+Halberds,NP,,Labels,Baltalı Kargılar
+Half Speed,NP,,Grades,Yarım Hız
+Hammer,N,,Labels,Çekiç
+Hammers,N/Pl,,Labels,Çekiçler
+Hand,N,,Labels,El
+Handbrake,N,A handbrake,Labels,El Freni
+Handbrake,V/I/Imp,To pull the handbrake,Actions,El Frenini Çek
+Handle,V/T/Imp,To use sth,Actions,Kullan
+Handling,N,Handling quality in card,Labels,Yol Tutuşu
+Handling,N,"Act of using, In menus",Labels,Kullanma
+Handling,N,"Act of controlling, ın menus",Labels,Kontrol
+Hands,N/Pl,,Labels,Eller
+Hard,ADJ,Difficulty etc.,Grades,Zor
+Hardcore,ADJ,Difficulty etc.,Grades,Çok Zor
+Hardcore,ADJ,,Genre,Zorlayıcı
+Hardcore Game,NP,,Genre,Zorlayıcı Oyun
+Hat,N,,Labels,Şapka
+Hats,N/Pl,,Labels,Şapkalar
+HDR,Acr.,,Labels,HDR
+HDR,NP,,Labels,Yüksek Dinamik Aralık
+Head,N,,Labels,Kafa
+Head Armour,NP,,Labels,Kafa Zırhı
+Head Armours,NP,,Labels,Kafa Zırhları
+Headband,NP,,Labels,Kafa Bandı
+Heads Up Display,NP,,Labels,Ekran Göstergeleri
+Headscarf,NP,,Labels,Baş Örtüsü
+Heal,V/T/Imp,To heal sb,Actions,İyileştir
+Healed,V/Past/Pass,Sb was healed by sb,Status,İyileştirildi
+Healing,V/PrCon/Act,Sb is healing,Actions,İyileştiriyor
+Healing,N,"Act of healing, in menus",Labels,İyileştirme
+Health,N,,Labels,Sağlık
+Health Bar,NP,,Labels,Sağlık Göstergesi
+Health Point,NP,,Labels,Sağlık Puanı
+Health Points,NP,,Labels,Sağlık Puanları
+Health Potion,NP,,Labels,Sağlık İksiri
+Heart,N,Organ,Labels,Kalp
+Heart,N,Lives to respawn,Labels,Can
+Hearts,N/Pl,Lives to respawn,Labels,Canlar
+Heirloom,N,,Labels,Yadigâr
+Heirlooms,N/Pl,,Labels,Yadigârlar
+Helm,N,,Labels,Kask
+Helms,N/Pl,,Labels,Kasklar
+Help,V/I/Imp,To help,Actions,Yardım Et
+Help,N,"Help, in menus etc.",Labels,Yardım
+Helped,V/Past/Pass,Sb was helped by sb,Status,Yardım Edildi
+Helping,V/PrCon/Act,Sb is helping,Actions,Yardım Ediyor
+Helping,N,"Act of helping, in menus",Labels,Yardım Etme
+Hero,N,,Labels,Kahraman
+Heroes,N/Pl,,Labels,Kahramanlar
+Hidden,V/Past/Pass,Sb was hidden by sb,Status,Gizlendi
+Hidden,ADJ,Hidden things,Labels,Gizli
+Hide,V/T/Imp,To hide sth,Actions,Gizle
+Hide,V/I/Imp,To hide yourself,Actions,Gizlen
+Hide Controller Hints,VP/Imp,,Actions,Kontrolcü İpuçlarını Gizle
+Hide Weapon,VP/Imp,,Actions,Silahı Gizle
+Hide Weapons,VP/Imp,,Actions,Silahları Gizle
+Hiding,V/PrCon/Act,Sb is hiding,Actions,Gizleniyor
+Hiding,N,"Act of hiding, in menus etc",Labels,Gizlenme
+High,ADJ,"Graphics, difficulty etc.",Grades,Yüksek
+High Score,NP,,Grades,Yüksek Skor
+High Scores,NP,,Labels,Yüksek Skorlar
+Highlight,V/T/Imp,To highlight,Actions,Öne Çıkar
+Highlight,N,A highlight,Labels,Öne Çıkan
+Highlights,NP/Pl,,Labels,Öne Çıkanlar
+Highly Skilled,ADJ P,Difficulty etc.,Grades,Üstün Yetenekli
+Hip,N,,Labels,Kalça
+Hips,N/Pl,,Labels,Kalçalar
+Hit,ADJ,It's a hit,Status,İsabetli
+Hit,N,Accuracy of sth,Labels,İsabetlilik
+Hit,V/I/Imp,To attack,Actions,Vur
+Hit,V/Past/Pass,Sb was hit by sb,Status,Vuruldu
+Hit Chance,NP,,Labels,İsabet İhtimali
+Hit Point,NP,HP,Labels,Sağlık Puanı
+Hit Points,NP/Pl,HP,Labels,Sağlık Puanları
+Hitting,V/PrCon/Act,Sb is hitting,Actions,Vuruyor
+Hitting,N,"Act of hitting, in menus",Labels,Vurma
+Hoe,N,Tool,Labels,Çapa
+Hoes,N/Pl,Tools,Labels,Çapalar
+Hold Breath,VP/Imp,To hold breath,Actions,Nefesini Tut
+Hold to Skip,VP/Imp,To skip,Actions,Geçmek İçin Basılı Tut
+Holding Breath,NP,"Act of holding breath, IM",Labels,Nefes Tutma
+Holographic Sight,NP,,Labels,Holografik Nişangâh
+Holster,N,A holster for weapons,Labels,Kılıf
+Holster,VP/Imp,To holster a weapon,Actions,Kılıfa Geri Koy
+Holster Weapon,VP/Imp,To holster a weapon,Actions,Silahı Kılıfa Geri Koy
+Holy,ADJ,,Labels,Kutsal
+Holy Damage,NP,,Labels,Kutsal Hasar
+Holy Resistance,NP,,Labels,Kutsal Direnci
+Home,N,"Home in menus, main page",Labels,Ana Sayfa
+Home,N,A building where you live,Labels,Ev
+Honk,V/I/Imp,To honk,Actions,Kornaya Bas
+Honeycomb,N,,Labels,Bal Peteği
+Honor,N,"Rank, degree",Labels,Rütbe
+Honor,N,Given to sb as a reward,Labels,Onur
+Honor Point,NP,Given to sb as a reward,Labels,Onur Puanı
+Honor Points,NP/Pl,Given to sb as a reward,Labels,Onur Puanları
+Honored,ADJ,A honored person,Labels,Onurlu
+Hood,N,,Labels,Başlık
+Horizontal Sensitivity,NP,,Labels,Yatay Hassasiyet
+Horn,N,Car horn,Labels,Korna
+Hotkey,N,,Labels,Kısayol Tuşu
+Hotkeys,N/Pl,,Labels,Kısayol Tuşları
+How to Play,Expression,,Sentences,Nasıl Oynanır
+HP,Acr.,Health points,Labels,SP
+Hud,N,,Labels,Ekran Göstergeleri
+Hud Scale,NP,,Labels,Ekran Göstergelerinin Boyutu
+Huge,ADJ,,Grades,Kocaman
+Human,N,,Labels,İnsan
+Huntsman,N,,Labels,Avcılık
+Huntsman,N,,Labels,Avcı
+Identify,V/T/Imp,To indentify,Actions,Tanımla
+Identifying,N,"Act of identifying, IM",Labels,Tanımlama
+Identifying,V/PrCon/Act,Sb is identifying sth,Actions,Tanımlıyor
+Identifying Glass,NP,Item,Labels,Tanımlama Merceği
+Image,N,Picture,Labels,Resim
+Image,N,"Image quality, settings etc.",Labels,Görüntü
+Image Quality,NP,,Labels,Görüntü Kalitesi
+Images,N/Pl,Pictures,Labels,Resimler
+Images,N/Pl,"Image quality, settings etc.",Labels,Görüntüler
+Immune,ADJ,Untouchable,Labels,Dokunulmaz
+Immune,ADJ,Immune to a status effect,Labels,Bağışık
+Immunity,N,Untouchability,Labels,Dokunulmazlık
+Immunity,N,"Against status effect, IM",Labels,Bağışıklık
+Immunity to Blind,NP,,Labels,Körlüğe Karşı Bağışıklık
+Immunity to Fire,NP,,Labels,Ateşe Karşı Bağışıklık
+Immunity to Poison,NP,,Labels,Zehire Karşı Bağışıklık
+Immunity to Silence,NP,,Labels,Susturmaya Karşı Bağışıklık
+Immunity to Sleeping,NP,,Labels,Uyumaya Karşı Bağışıklık
+Impossible,ADJ,Difficulty etc.,Grades,İmkânsız
+In Cooldown,NP/Expression,Skill in cooldown,Status,Bekleme Süresinde
+In-App Purchase,NP/Expression,,Genre,Uygulama İçi Satın Alım
+Incomplete,ADJ,,Status,Tamamlanmadı
+Increase Camera Speed,VP/Imp,,Actions,Kamera Hızını Artır
+Increase Play Speed,VP/Imp,,Actions,Oynatma Hızını Artır
+Increase Throttle,VP/Imp,To increase a car's speed etc.,Actions,Gaz Artır
+Indie,ADJ,,Genre,Bağımsız
+Indie Developer,NP,,Genre,Bağımsız Geliştirici
+Indie Game,NP,,Genre,Bağımsız Oyun
+Information,N,,Labels,Bilgi
+Informations,N/Pl,,Labels,Bilgiler
+Ingot,N,,Labels,Külçe
+Ingots,N/Pl,,Labels,Külçeler
+Ingredient,N,,Labels,Malzeme
+Ingredients,N/Pl,,Labels,Malzemeler
+Initializing,V/PrCon/Pass,Game is initializing,Actions,Başlatılıyor
+Initiative,N,Character's initiative,Labels,Öncelik
+Injure,V/T/Imp,To injure sb,Actions,Yarala
+Injured,ADJ,An injured person,Labels,Yaralı
+Injured,V/Past/Pass,Sb was injured by sb,Status,Yaralandı
+Inn,N,Gathering place,Labels,Han
+Insane,ADJ,If it is a difficulty,Grades,Delilik
+Insane,ADJ,If it is a graphic option,Grades,Aşırı Yüksek
+Install,V/T/Imp,To install ,Actions,Kur
+INT,Abbr.,Character's stat,Labels,ZEK
+Intelligence,N,Character's stat,Labels,Zekâ
+Interact,V/I/Imp,To interact,Actions,Etkileşime Geç
+Interacted,V/Past/Pass,Sb was interacted,Status,Etkileşime Geçildi
+Interacting,V/PrCon/Pass,Sb is interacting with sth,Actions,Etkileşime Geçiliyor
+Interacting,N,"Act of interacting, in menus",Labels,Etkileşime Geçme
+Interface,N,,Labels,Arayüz
+Interface,N,,Credits,Arayüz
+Interface Artist,NP,,Credits,Arayüz Sanatçısı
+Interface Options,NP,,Labels,Arayüz Seçenekleri
+Interface Settings,NP,,Labels,Arayüz Ayarları
+Interface Size,NP,,Labels,Arayüz Boyutu
+Invalid,N,,Status,Geçersiz
+Invalid Command,NP,,Sentences,Geçersiz Komut
+Invalid Name,NP,,Sentences,Geçersiz İsim
+Inventory,N,,Labels,Envanter
+Inventory Capacity,NP,,Labels,Envanter Kapasitesi
+Inventory Full,Expression,,Sentences,Envanter Dolu
+Invert Mouse,VP/Imp,,Labels,Fare Hareketini Tersine Çevir
+Invert Vertical Look,VP/Imp,,Labels,Dikey Hareketi Tersine Çevir
+Inverted,V/Past/Pass,Menus etc.,Status,Tersine Çevrildi
+Invitation Only,Expression,Lobby joining restrictions,Labels,Sadece Davet
+Invite,V/T/Imp,To invite sb,Actions,Davet Et
+Invite to Game,V/Imp,To invite sb,Actions,Oyuna Davet Et
+Invited,V/Past/Pass,Sb was invited by sb,Status,Davet Edildi
+Invites,N/Pl,,Labels,Davetler
+Iron,N,,Labels,Demir
+Iron Armour,NP,,Labels,Demir Zırh
+Iron Arrow,NP,,Labels,Demir Ok
+Iron Axe,NP,,Labels,Demir Balta
+Iron Bars,NP,,Labels,Demir Çubuklar
+Iron Boots,NP,,Labels,Demir Çizmeler
+Iron Bracer,NP,,Labels,Demir Kol Zırhı
+Iron Bracers,NP,,Labels,Demir Kol Zırhları
+Iron Hatchet,NP,,Labels,Demir Küçük Balta
+Iron Helmet,NP,,Labels,Demir Kask
+Iron Hoe,NP,,Labels,Demir Çapa
+Iron Ingot,NP,,Labels,Demir Külçe
+Iron Katana,NP,,Labels,Demir Katana
+Iron Knife,NP,,Labels,Demir Bıçak
+Iron Leggings,NP,,Labels,Demir Bacak Zırhları
+Iron Nugget,NP,,Labels,Demir Parçası
+Iron Ore,NP,,Labels,Demir Cevheri
+Iron Pickaxe,NP,,Labels,Demir Kazma
+Iron Shield,NP,,Labels,Demir Kalkan
+Iron Spear,NP,,Labels,Demir Mızrak
+Iron Sword,NP,,Labels,Demir Kılıç
+Item,N,,Labels,Eşya
+Item Crafting,NP,,Labels,Eşya Üretme
+Items,N/Pl,,Labels,Eşyalar
+Javelin,N,Throwable spear,Labels,Cirit
+Jester,N,,Labels,Soytarı
+Join,V/I/Imp,To join,Actions,Katıl
+Joined,V/Past/Act,Sb joined,Status,Katıldı
+Joining,V/PrCon/Act,Sb is joining,Actions,Katılıyor
+Journey,N,Game campaign,Labels,Yolculuk
+Jump,V/T/Imp,To jump sb,Actions,Zıplat
+Jump,V/T/Imp,To jump,Actions,Zıpla
+Jumped,V/Past/Act,Sb jumped,Status,Zıpladı
+Jumped,V/Past/Pass,Sb was jumped by sb,Status,Zıplatıldı
+Jumping,V/PrCon/Act,Sb is jumping,Actions,Zıplıyor
+Jumping,N,"Act of jumping, in menus",Labels,Zıplama
+Junior,ADJ,,Genre,Kıdemsiz
+Junk,N,If it's trash,Labels,Çöp
+Junk,ADJ,If it's unnecessary,Labels,Önemsiz
+Junk Item,NP,Unnecessary items,Labels,Önemsiz Eşya
+Junk Items,NP/Pl,Unnecessary items,Labels,Önemsiz Eşyalar
+Katana,N,,Labels,Katana
+Key,ADJ,Important thing,Labels,Önemli
+Key,N,A key to open sth,Labels,Anahtar
+Key,N,Keyboard key etc.,Labels,Tuş
+Key Binding,NP,Keyboard bindings,Labels,Tuş Atama
+Key Bindings,NP/Pl,Keyboard bindings,Labels,Tuş Atamaları
+Key Item,NP,Important item,Labels,Önemli Eşya
+Key Items,NP/Pl,Important item,Labels,Önemli Eşyalar
+Keyboard,N,,Labels,Klavye
+Keyboard + Mouse,N+N,,Labels,Klavye ve Fare
+Keyboard and Mouse,N+N,,Labels,Klavye ve Fare
+Keyboard and Mouse Settings,NP,,Labels,Klavye ve Fare Ayarları
+Keys,N/Pl,Keys to open sth,Labels,Anahtarlar
+Keys,N/Pl,Keyboard keys,Labels,Tuşlar
+Kick,V/T/Imp,To kick sb with leg,Actions,Tekmele
+Kick,V/T/Imp,To fire sb from a group etc.,Actions,Kov
+Kick From Group,VP/Imp,,Actions,Gruptan Kov
+Kick From Party,VP/Imp,,Actions,Partiden Kov
+Kicked,V/Past/Pass,Sb was kicked by sb with leg,Status,Tekmelendi
+Kicked,V/Past/Pass,Sb was kicked by sb from group,Status,Kovuldu
+Kicking,N,"Act of kicking with leg, IM",Labels,Tekmeleme
+Kicking,V/PrCon/Act,Sb is kicking with leg,Actions,Tekmeliyor
+Kicking,V/PrCon/Act,Sb is kicking sb from group,Actions,Kovuyor
+Kicking,N,"Act of kicking from group, IM",Labels,Kovma
+Kill,V/T/Imp,To kill,Actions,Öldür
+Kill,N,"Act of killing, In menus etc.",Labels,Öldürme
+Kill Assist,NP,,Labels,Öldürme Asisti
+Kill Cam,NP,,Labels,Ölüm Kamerası
+Killed,V/Past/Pass,Sb was killed by sb,Status,Öldürüldü
+Killing,V/PrCon/Act,Sb is killing,Actions,Öldürüyor
+Killing,N,"Act of killing, in menus etc.",Labels,Öldürme
+Kills,N/Pl,,Labels,Öldürmeler
+King,N,,Labels,Kral
+Knife,N,A knife,Labels,Bıçak
+Knife,V/T/Imp,To knife sb,Actions,Bıçakla
+Knifed,V/Past/Pass,Sb was knifed by sb,Status,Bıçaklandı
+Knifing,N,"Act of knifing, in menust etc.",Labels,Bıçaklama
+Knifing,V/PrCon/Act,Sb is knifing sb,Actions,Bıçaklıyor
+Knight,N,,Labels,Şövalye
+Knock,V/I/Imp,"To knock on sth, doors etc.",Actions,Tıkla
+Knock,V/T/Imp,To knock down on ground,Actions,Düşür
+Knock Door,VP/Imp,,Actions,Kapıya Tıkla
+Knock Down,V/T/Imp,To knock down sb,Actions,Yere Düşür
+Knocked Down,V/Past/Pass,Sb was knocked down by sb,Status,Yere Düşürüldü
+Knocked,V/Past/Pass,Sb was knocked down by sb,Status,Düşürüldü
+Ladder,N,Ranking,Labels,Sıralama
+Ladder,N,Ladder for climbing,Labels,Merdiven
+Land,V/I/Imp,To land an air vehicle,Actions,İniş Yap
+Landed,V/Past/Pass,An air vehicle was landed by sb,Status,İniş Yapıldı
+Landing,V/PrCon/Act,Sb landing an air vehicle,Actions,İniş Yapıyor
+Landing,N,Act of landing an air vehicle,Labels,İniş Yapma
+Language,N,,Labels,Dil
+Language Option,NP,,Labels,Dil Seçeneği
+Language Options,NP,,Labels,Dil Seçenekleri
+Language Select,NP,,Labels,Dil Seçimi
+Language Settings,NP,,Labels,Dil Ayarları
+Languages,N/Pl,,Labels,Diller
+Lap,N,,Labels,Tur
+Laps,N,,Labels,Tur
+Large Indicators,NP,,Labels,Büyük Göstergeler
+Last Name,NP,,Labels,Soyadı
+Last Picked Up,ADJ P,,Labels,Son Toplanan
+Launch,V/T/Imp,To launch a game etc,Actions,Başlat
+Launcher,N,A launcher for game,Labels,Başlatıcı
+Launcher Settings,NP,,Labels,Başlatıcı Ayarları
+Lead,V/I/Imp,To show the path,Actions,Yol Göster
+Lead,V/I/Imp,To lead in the path,Actions,Öncülük Yap
+Lead,N,,Labels,Öncülük
+Lead Programmer,NP,,Credits,Baş Yazılımcı
+Leader,N,,Labels,Lider
+Leadership,N,,Labels,Liderlik
+Leading,V/PrCon/Act,Sb is leading,Actions,Öncülük Yapıyor
+Lean,V/I/Imp,To lean,Actions,Yaslan
+Lean Back,VP/I/Imp,To lean back,Actions,Geriye Yaslan
+Lean Forward,VP/I/Imp,To lean forward,Actions,Öne Eğil
+Lean Left,VP/I/Imp,To lean left,Actions,Sola Eğil
+Lean Right,VP/I/Imp,To lean right,Actions,Sağa Eğil
+Leather,N,,Labels,Deri
+Leather Armour,NP,,Labels,Deri Zırh
+Leather Armours,NP,,Labels,Deri Zırhlar
+Leather Boots,NP,,Labels,Deri Çizmeler
+Leather Bracers,NP,,Labels,Deri Kol Zırhları
+Leather Chestplate,NP,,Labels,Deri Göğüs Zırhı
+Leather Greaves,NP,,Labels,Deri Dizlikler
+Leave,V/I/Imp,To leave from sth,Actions,Ayrıl
+Leave,V/T/Imp,To drop or left behind sth,Actions,Bırak
+Leave Match,VP/Imp,,Actions,Karşılaşmadan Ayrıl
+Leave Selected Number,VP/Imp,,Actions,Seçili Eşyaları Bırak
+Left,ADJ,Direction,Labels,Sol
+Left,V/Past/Act,Sb left from somewhere,Status,Ayrıldı
+Left Hand,NP,,Labels,Sol El
+Leg,N,,Labels,Bacak
+Legacy,N,Money or property,Labels,Miras
+Legacy Mode,NP,Old mode for program,Labels,Eski Sürüm
+Legacy Version,NP,Old version for program,Labels,Eski Sürüm
+Legendary,ADJ,Item or difficulty grading,Grades,Efsanevi
+Leggings,N/Pl,,Labels,Bacak Zırhları
+Legs,N/Pl,,Labels,Bacaklar
+Lens Effect,NP,,Labels,Lens Efekti
+Lens Effects,NP/Pl,,Labels,Lens Efektleri
+Level,N,"If it's character, skill, item level",Labels,Seviye
+Level,N,If it's the level you play,Labels,Bölüm
+Level,V/I/Imp,To level up sth,Actions,Seviye Atlat
+Level Designer,NP,,Credits,Bölüm Tasarımcısı
+Level Up,VP/Past/Pass,Sb leveled up,Status,Seviye Atlandı
+Level Up,VP/I/Imp,To level up sth,Actions,Seviye Atlat
+Leveling,N,"Act of leveling, in menus etc.",Labels,Seviye Atlama
+Lever,N,"A weapon, tool",Labels,Levye
+Lever,N,An arm to pull,Labels,Kol
+Licences,N/Pl,,Labels,Lisanslar
+Life Steal,VP/Imp,To steal life,Actions,Can Çal
+Life Steal,NP,"Act of life stealing, IM etc.",Labels,Can Çalma
+Life Stealed,VP/Past/Pass,Sb stealed life ,Status,Can Çalındı
+Life Stealing,NP,"Act of life stealing, IM etc.",Labels,Can Çalma
+Light Bow,NP,,Labels,Hafif Yay
+Lighting,N,,Labels,Işıklandırma
+Lighting Quality,NP,,Labels,Işıklandırma Kalitesi
+Lightings,N/Pl,,Labels,Işıklandırmalar
+Lightning,N,,Labels,Yıldırım
+Lightning Arrow,NP,,Labels,Yıldırım Oku
+Lightning Damage,NP,,Labels,Yıldırım Hasarı
+Lightning Resistance,NP,,Labels,Yıldırım Direnci
+Lightning Rod,NP,,Labels,Paratoner
+Lightning Strike,NP,,Labels,Yıldırım Darbesi
+Lion,N,,Labels,Aslan
+Lite,ADJ,Lite item etc. not the version,Grades,Hafif
+Live,N,Player lives,Labels,Can
+Lives,N/Pl,Player lives,Labels,Canlar
+Lizard,N,,Labels,Kertenkele
+Lizards,N/Pl,,Labels,Kertenkeleler
+Load,V/T/Imp,To load save or sth,Actions,Yükle
+Load Campaign,VP/Imp,To load save or sth,Actions,Senaryoyu Yükle
+Load Game,VP/Imp,To load save or sth,Actions,Oyunu Yükle
+Loaded,V/Past/Pass,Save loaded,Status,Yüklendi
+Loading,V/PrCon/Pass,Save is loading,Actions,Yükleniyor
+Loading,N,"Act of loading, ın menus etc.",Labels,Yükleme
+Lobby,N,,Labels,Lobi
+Local Multiplayer,NP,,Labels,Yerel Çok Oyunculu
+Local Multiplayer,NP,,Genre,Yerel Çok Oyunculu
+Localization,N,,Credits,Yerelleştirme
+Location,N,,Labels,Konum
+Lock,V/T/Imp,To lock sth,Actions,Kilitle
+Locked,ADJ,"A ""locked"" door",Labels,Kilitli
+Locking,V/PrCon/Act,Sb is locking sth,Actions,Kilitliyor
+Locking,N,"Act of locking sth, IM etc.",Labels,Kilitleme
+Lock-On Aim,NP,,Labels,Hedef Kilitlenmesi
+Lock-On Strength,NP,,Labels,Kilitlenme Kuvveti
+Lockpick,V/I/Imp,To open a lock,Actions,Kilidi Aç
+Lockpick,N,An item for lockpicking,Labels,Maymuncuk
+Lockpicking,N,"Act of lockpicking, IM etc.",Labels,Kilit Açma
+Log,N,Journal,Labels,Günlük
+Log,N,Logged history,Labels,Kayıt
+Log,N,Tree log,Labels,Kütük
+Log Out,V/I/Imp,To log out,Actions,Çıkış Yap
+Login,V/I/Imp,To login,Actions,Giriş Yap
+Logs,N/Pl,Journals,Labels,Günlükler
+Logs,N/Pl,Logged history,Labels,Kayıtlar
+Logs,N/Pl,Tree logs,Labels,Kütükler
+Lone Wolf,NP,,Labels,Yalnız Kurt
+Longbow,N,,Labels,Uzun Yay
+Look,V/I/Imp,To look ,Actions,Bak
+Look Sensitivity,NP,,Labels,Bakış Hassasiyeti
+Look Sensitivity X,NP,,Labels,Bakış Hassasiyeti X
+Look Sensitivity Y,NP,,Labels,Bakış Hassasiyeti Y
+Looking,V/PrCon/Act,Sb is looking,Actions,Bakıyor
+Looking,N,"Act of looking, IM etc.",Labels,Bakma
+Loom,N,,Labels,Dokuma Tezgâhı
+Loot,V/T/Imp,"To plunder, take a loot ",Actions,Yağmala
+Loot,N,Loot from a place or body etc.,Labels,Yağma
+Looted,V/Past/Pass,Sth was looted by sb,Status,Yağmalandı
+Looting,N,"Act of looting, in menus etc.",Labels,Yağmalama
+Looting,V/PrCon/Act,Sb is looting,Actions,Yağmalıyor
+Lord,N,,Labels,Lort
+Lose,N,,Labels,Yenilgi
+Loser,ADJ,,Grades,Ezik
+Loses,N/Pl,,Labels,Yenilgiler
+Low,ADJ,Graphics etc.,Grades,Düşük
+Luck,N,Chance,Labels,Şans
+Lucky Charm,NP,Character's stat,Labels,Şanslılık
+Machete,N,,Labels,Pala
+Machine Gun,NP,,Labels,Makineli Tüfek
+Machine Guns,NP/Pl,,Labels,Makineli Tüfekler
+Mad,ADJ,"A ""mad"" sth or sb",Labels,Çıldırmış
+Madden,V/T/Imp,To madden sb,Actions,Çıldırt
+Maddening,V/PrCon/Act,Sb is maddening sb,Actions,Çıldırtıyor
+Maddening,N,"Act of maddening, IM etc.",Labels,Çıldırtma
+Madness,N,,Labels,Çılgınlık
+Mage,N,,Labels,Sihirbaz
+Magic,N,,Labels,Sihir
+Magic Armour,NP,,Labels,Sihir Zırhı
+Magic Attack,NP,,Labels,Büyü Saldırısı
+Magic Damage,NP,,Labels,Sihir Hasarı
+Magic Defence,NP,,Labels,Büyü Savunması
+Magic Penetration,NP,,Labels,Sihir Nüfuzu
+Magic Resistance,NP,,Labels,Sihir Direnci
+Magical,ADJ,,Labels,Büyüleyici
+Mail,N,e-mail etc.,Labels,Posta
+Mail,N,Armor,Labels,Zincir Zırh
+Mail Armour,NP,,Labels,Zincir Zırh
+Main Hand,NP,,Labels,Güçlü Kol
+Main Menu,NP,,Labels,Ana Menü
+Main Quest,NP,,Labels,Ana Görev
+Main Quests,NP,,Labels,Ana Görevler
+Male,N,,Labels,Erkek
+Man,N,,Labels,Adam
+Mana,N,Used only in context of spells,Labels,Büyü Kapasitesi
+Mana Potion,NP,Used only in context of spells,Labels,Büyü Kapasitesi İksiri
+Manage Profile,VP/Imp,,Actions,Profili Yönet
+Manuscript,N,,Credits,Taslak
+Map,N,,Labels,Harita
+Marketing,N,,Credits,Pazarlama
+Marksman,N,,Labels,Nişancı
+Mask,N,,Labels,Maske
+Masks,N/Pl,,Labels,Maskeler
+Master Volume,NP,,Labels,Ana Ses
+Mastery,N,,Labels,Ustalık
+Match,N,"A match, encounter",Labels,Karşılaşma
+Matchmake,V/I/Imp,"To search a mach, encounter",Actions,Karşılaşma Ara
+Match History,NP,"Encounter, match history",Labels,Karşılaşma Geçmişi
+Material,N,,Labels,Malzeme
+Max,N/Abbr.,Difficulty or graphics etc.,Grades,Azami
+Maximum,N,Difficulty or graphics etc.,Grades,Azami
+Med Kit,NP,,Labels,Sağlık Ekipmanı
+Medal,N,,Labels,Madalya
+Medallion,N,,Labels,Madalyon
+Medals,N/Pl,,Labels,Madalyalar
+Medium,N,For grading ,Grades,Orta
+Melee,N,You can use for action,Labels,Yakın Dövüş
+Melee Weapon,NP,,Labels,Yakın Dövüş Silahı
+Memory,N,,Labels,Hafıza
+Menu,N,,Labels,Menü
+Menu Sound,NP,,Labels,Menü Sesi
+Menu Sounds,NP,,Labels,Menü Sesleri
+Menus,N/Pl,,Labels,Menüler
+Metal,N,,Labels,Metal
+Microphone,N,,Labels,Mikrofon
+Microphone Volume,NP,,Labels,Mikrofon Sesi
+Milestone,N,,Labels,Dönüm Noktası
+Milestones,N/Pl,,Labels,Dönüm Noktaları
+Min,N,For grading graphics,Grades,Asgari
+Mind,N,Character's stat,Labels,Zihin
+Minimap,N,,Labels,Küçük Harita
+Minimap Scale,NP,,Labels,Küçük Harita Boyutu
+Minimum,N,For grading in menus,Grades,Asgari
+Mirror,N,,Labels,Ayna
+Misc,ADJ/Abbr,Item category,Labels,Çeşitli
+Miscellaneous,ADJ,Item category,Labels,Çeşitli Eşyalar
+Miss,N,A missed hit,Status,Iska
+Missed,V/Past/Pass,Sb was missed by sb,Status,Iskalandı
+Missed,V/Past/Act,Sb missed a hit,Status,Iskaladı
+Missing,ADJ,Lost ,Labels,Kayıp
+Missing,ADJ,Lacking,Status,Eksik
+Mission,N,,Labels,Görev
+Mission Objective,NP,,Labels,Görev Hedefi
+Mission Objectives,NP,,Labels,Görev Hedefleri
+Missions,N/Pl,,Labels,Görevler
+Mix,V/T/Imp,To mix sth ,Actions,Karıştır
+Mix Mode,NP,,Labels,Karışık Mod
+Mixed,ADJ,In menus etc.,Grades,Karışık
+Mod,N,,Labels,Mod
+Mode,N,,Labels,Mod
+Model Detail,NP,,Labels,Model Detayı
+Model Quality,NP,,Labels,Model Kalitesi
+Models,N/Pl,,Labels,Modeller
+Mods,N/Pl,,Labels,Modlar
+Molotov Cocktail,NP,,Labels,Molotof Kokteyli
+Monk,N,,Labels,Keşiş
+Monster,N,Unusual mythical beast,Labels,Canavar
+Monsters,N/Pl,Unusual mythical beasts,Labels,Canavarlar
+More,ADJ,,Labels,Daha Fazla
+More Information,Expression,,Labels,Daha Fazla Bilgi
+Motion Blur,NP,,Labels,Hareket Bulanıklığı
+Motion Blur Quality,NP,,Labels,Hareket Bulanıklığı Kalitesi
+Motorcycle,N,,Labels,Motosiklet
+Mount,N,A mount,Labels,Binek
+Mount,V/I/Imp,To mount ,Actions,Bin
+Mounted,V/Past/Pass,A mount was mounted by sb,Status,Binildi
+Mounting,N,"Act of mounting, In menus etc.",Labels,Binme
+Mounts,N/Pl,,Labels,Binekler
+Mouse,N,,Labels,Fare
+Mouse Sensitivity,NP,,Labels,Fare Hassasiyeti
+Mouse Speed,NP,,Labels,Fare Hızı
+Mouse X-Axis,NP,,Labels,Fare X-Ekseni
+Mouse Y-Axis,NP,,Labels,Fare Y-Ekseni
+Mouth,N,,Labels,Ağız
+Move,V/I/Imp,To move a character etc.,Actions,Hareket Et
+Move,V/T/Imp,To move sth from somewhere,Actions,Taşı
+Move Backward,VP/I/Imp,To move backward,Actions,Geri Git
+Moving Backward,NP,"Act of moving backward, IM",Labels,Geri Gitme
+Move Forward,VP/I/Imp,To move forward,Actions,İleri Git
+Moving Forward,NP,"Act of moving forward, IM",Labels,İleri Gitme
+Movement,N,In menus etc.,Labels,Hareket
+MSAA,Acr.,,Labels,MSAA
+Multiplayer,ADJ P,,Labels,Çok Oyunculu
+Multiplier,ADJ,,Labels,Çarpan
+Music,N,,Labels,Müzik
+Music,N,,Credits,Müzik
+Music Director,NP,,Credits,Müzik Yönetmeni
+Music Player,NP,,Labels,Müzik Oynatıcısı
+Music Volume,NP,,Labels,Müzik Sesi
+Musician,N,,Labels,Müzisyen
+Mute,V/T/Imp,"To mute voice, sound etc.",Actions,Sustur
+Mute,ADJ,"A ""mute"" person",Labels,Dilsiz
+Mute Voice Chat,VP/I/Imp,,Actions,Sesli Sohbeti Sustur
+Mute Volume,VP/I/Imp,,Actions,Sesi Sustur
+Muted,V/Past/Pass,Sth muted by sb,Status,Susturuldu
+Muting,N,"Act of muting, in menus etc.",Labels,Susturma
+Muting,V/PrCon/Act,Sb is muting,Actions,Susturuyor
+Mutton,N,,Labels,Koyun Eti
+My Games,NP,,Labels,Oyunlarım
+Mystic,ADJ,Weapon grade etc.,Grades,Mistik
+Name,N,,Labels,İsim
+Names,N/Pl,,Labels,İsimler
+Neck,N,,Labels,Boyun
+Necromancer,ADJ,,Labels,Ölü Çağıran
+Necromancy,N,,Labels,Ölü Çağırma
+Network,N,,Labels,Ağ
+Network Options,NP,,Labels,Ağ Seçenekleri
+Network Settings,NP,,Labels,Ağ Ayarları
+Neutral,ADJ,Non aligned,Labels,Tarafsız
+Neutral,ADJ,"In menus, a setting is set to",Grades,Nötr
+New Character,NP,,Labels,Yeni Karakter
+New Game,NP,,Labels,Yeni Oyun
+New Game+,NP,,Labels,Yeni Oyun+
+New Journey,NP,,Labels,Yeni Yolculuk
+New Racer,NP,,Labels,Yeni Yarışçı
+Next,Prep.,To go beyond,Actions,İleri
+Next Player,NP,,Actions,Sonraki Oyuncu
+Next Track,NP,"To skip next track, music",Actions,Sonraki Parça
+Next Weapon,NP,To skip next weapon,Actions,Sonraki Silah
+Ninja,N,,Labels,Ninja
+No,Interjection,,Actions,Hayır
+Noble,ADJ,,Labels,Soylu
+Nobody,Pronoun,,Grades,Hiç Kimse
+None,Pronoun,,Grades,Hiçbiri
+Normal,ADJ,,Grades,Normal
+Nose,N,,Labels,Burun
+Notification,N,,Labels,Bildirim
+Notifications,N/Pl,,Labels,Bildirimler
+Novice,ADJ,"Difficulty, ın menus etc.",Grades,Acemi
+Oak,N,,Labels,Meşe Ağacı
+Objective,N,"Goal, not quest",Labels,Hedef
+Objectives,N/Pl,"Goals, not quests",Labels,Hedefler
+Off,ADJ,,Status,Kapalı
+Off Hand,NP,,Labels,Zayıf Kol
+Offline,ADJ,,Status,Çevrim Dışı
+Ok,Interjection,,Actions,Tamam
+On,Prep.,,Status,Açık
+One Handed Axe,NP,,Labels,Tek Elli Balta
+One Handed Mace,NP,,Labels,Tek Elli Topuz
+One Handed Sword,NP,,Labels,Tek Elli Kılıç
+Online,ADJ,,Status,Çevrim İçi
+Online,ADJ,,Genre,Çevrim İçi
+Online Multiplayer,NP,,Genre,Çevrim İçi Çok Oyunculu
+Online Game,NP,,Genre,Çevrim İçi Oyun
+Online Multiplayer,NP,,Labels,Çevrim İçi Çok Oyunculu
+Online Settings,NP,,Labels,Çevrim İçi Ayarlar
+Open,V/T/Imp,To open,Actions,Aç
+Open,ADJ,"An open thing, item etc.",Status,Açık
+Open World,NP,,Genre,Açık Dünya
+Open World,NP,,Labels,Açık Dünya
+Opened,V/Past/Pass,Sth opened by sb,Status,Açıldı
+Option,N,,Labels,Seçenek
+Optional,ADJ,,Labels,İsteğe Bağlı
+Options,N/Pl,,Labels,Seçenekler
+Origin,N,,Labels,Köken
+Outlaw,N,,Labels,Kanun Kaçağı
+Overall Graphics Quality,NP,,Labels,Genel Grafik Kalitesi
+Overall Quality,NP,,Labels,Genel Kalite
+Overall Volume,NP,,Labels,Genel Ses
+Overview,N,,Labels,Genel Bakış
+Page,N,,Labels,Sayfa
+Painkiller,N,,Labels,Ağrı Kesici
+Panning Speed,NP,,Labels,Kamera Kaydırma Hızı
+Paper,N,,Labels,Kâğıt
+Particle Effects Quality,NP,,Labels,Partikül Efekt Kalitesi
+Party,N,,Labels,Parti
+Pass Time,VP/I/Imp,,Labels,Zaman Geçir
+Passive,ADJ,If it is a setting that disabled,Status,Devre Dışı
+Passive,ADJ,"Spells, skills etc.",Labels,Pasif
+Passive Skills,NP,,Labels,Pasif Yetenekler
+Passive Spells,NP,,Labels,Pasif Büyüler
+Password,N,,Labels,Parola
+Patch,N,,Labels,Yama
+Patch,V/T/Imp,,Actions,Güncelle
+Patch Notes,NP,,Labels,Yama Notları
+Path,N,,Labels,Yol
+Pause,V/T/Imp,To pause,Actions,Durdur
+Paused,V/Past/Pass,Sth or sb paused by sb,Status,Durduruldu
+Pearl,N,,Labels,İnci
+Peek,V/I/Imp,To peek,Actions,Bak
+Peek Left,VP/I/Imp,To peek left,Actions,Sola Bak
+Peek Right,VP/I/Imp,To peek right,Actions,Sağa Bak
+Persuade,V/T/Imp,To persuade,Actions,İkna Et
+Persuasion,N,"Act of persuasion, In menus",Labels,İkna Etme
+Pet,N,To pet an animal etc.,Actions,Sev
+Pet,N,A pet,Labels,Evcil Hayvan
+Pets,N/Pl,,Labels,Evcil Hayvanlar
+Physical,ADJ,,Labels,Fiziksel
+Physical Attack,NP,,Labels,Fiziksel Saldırı
+Physical Damage,NP,,Labels,Fiziksel Hasar
+Physical Defense,NP,,Labels,Fiziksel Savunma
+Pick Up,V/T/Imp,To pick up from ground,Actions,Yerden Al
+Pickaxe,N,,Labels,Kazma
+Pickaxes,N/Pl,,Labels,Kazmalar
+Pie,N,,Labels,Turta
+Pirate,N,,Labels,Korsan
+Pirates,N/Pl,,Labels,Korsanlar
+Pistol,N,,Labels,Tabanca
+Pistols,N/Pl,,Labels,Tabancalar
+Place,V/T/Imp,To place sth,Actions,Yerleştir
+Placed,V/Past/Pass,Sth was placed by sb,Status,Yerleştirildi
+Placing,V/PrCon/Pass,Sb is placing,Actions,Yerleştiriliyor
+Placing,N,"Act of placing, in menus etc.",Labels,Yerleştirme
+Planet,N,,Labels,Gezegen
+Planets,N/Pl,,Labels,Gezegenler
+Plank,N,Wooden planks,Labels,Kalas
+Planks,N/Pl,Wooden planks,Labels,Kalaslar
+Platformer,N,,Genre,Platform Oyunu
+Platformer Game,NP,,Genre,Platform Oyunu
+Platinum,N,,Labels,Platin
+Platinum Ingot,NP,,Labels,Platin Külçe
+Platinum Ore,NP,,Labels,Platin Cevheri
+Play,V/I/Imp,"To play, game",Actions,Oyna
+Play,V/T/Imp,"To play, soundtrack etc.",Actions,Oynat
+Play Again,VP/I/Imp,To play again game,Actions,Tekrar Oyna
+Play Ambient Sounds,VP/Imp,,Actions,Ortam Seslerini Oynat
+Play Online,VP/Imp,To play online,Actions,Çevrim İçi Oyna
+Play Time,NP,,Labels,Oynanış Süresi
+Player,N,,Labels,Oyuncu
+Player List,NP,,Labels,Oyuncu Listesi
+Player Movement,NP,Controls etc. In menus,Labels,Oyuncu Hareketleri
+Player Movements,NP/Pl,Controls etc. In menus,Labels,Oyuncu Hareketleri
+Please,Expression,,Labels,Lütfen
+Please Wait,S/Expression,,Sentences,Lütfen Bekleyin
+Poison,N,To poison sb or sth,Actions,Zehirle
+Poison,N,A poison,Labels,Zehir
+Poison Arrow,NP,,Labels,Zehirli Ok
+Poison Attack,NP,,Labels,Zehir Saldırısı
+Poison Damage,NP,,Labels,Zehir Hasarı
+Poison Resistance,NP,,Labels,Zehir Direnci
+Poisoned,V/Past/Pass,Sb or sth was poisoned by sb,Status,Zehirlendi
+Poisoning,V/PrCon/Act,Sb is poisoning,Actions,Zehirliyor
+Poisoning,N,"Act of poisoning, In menus etc.",Labels,Zehirleme
+Poisoning,ADJ,"A ""poisoning"" thing",Labels,Zehirli
+Position,N,,Labels,Konum
+Post Processing,NP,,Labels,Son İşleme
+Pot,N,Potion,Labels,İksir
+Potato,N,,Labels,Patates
+Potion,N,,Labels,İksir
+Pouch,N,Pouch for putting sth in,Labels,Kese
+Powder,N,,Labels,Barut
+Power,N,,Labels,Güç
+Power UP,VP/Past/Pass,Sth or sb was powered up,Status,Güçlendi
+Premium,ADJ,,Labels,Ayrıcalıklı
+Preset,N,A preset setting,Labels,Ön Ayar
+Press Any Button,S,,Sentences,Herhangi Bir Düğmeye Bas
+Press Any Key,S,,Sentences,Herhangi Bir Tuşa Bas
+Press Any Key To Continue,S,,Sentences,Devam Etmek İçin Herhangi Bir Tuşa Bas
+Press Enter To Skip,S,,Sentences,Geçmek İçin Giriş Tuşuna Bas
+Previous,ADJ,,Actions,Önceki
+Previous Player,NP,,Actions,Önceki Oyuncu
+Previous Track,NP,,Actions,Önceki Parça
+Previous Weapon,NP,,Actions,Önceki Silah
+Price,N,Price of items etc.,Labels,Fiyat
+Priest,N,,Labels,Ruhban
+Primary Weapon,NP,,Labels,Birincil Silah
+Prince,N,,Labels,Prens
+Princess,N,,Labels,Prenses
+Prisoner,N,,Labels,Mahkûm
+Privacy,N,,Labels,Gizlilik
+Privacy Notice,NP,,Labels,Gizlilik Bildirisi
+Private,ADJ,,Grades,Özel
+Pro,ADJ/Abbr.,Difficulty,Grades,Profesyonel
+Producer,N,,Credits,Yapımcı
+Production,N,,Credits,Yapım
+Profile,N,,Labels,Profil
+Profiles,N/Pl,,Labels,Profiller
+Program Manager,NP,,Credits,Program Yöneticisi
+Programmer,N,,Credits,Programcı
+Programmers,N/Pl,,Credits,Programcılar
+Project Manager,NP,,Credits,Proje Yöneticisi
+Prone,V/I/Imp,To prone on ground,Actions,Yere Yat
+Publisher,N,,Credits,Yayıncı
+Publishing,N,,Credits,Yayınlama
+Purchase,V/T/Imp,To purchase sth,Actions,Satın Al
+Purchased,V/Past/Pass,Sth was purchased by sb,Status,Satın Alındı
+Push to Talk,VP/Imp,,Labels,Bas Konuş
+Puzzle,N,,Genre,Bulmaca
+Puzzle Game,NP,,Genre,Bulmaca Oyunu
+PVP,Acr.,,Labels,Oyunculara Karşı
+QA,Acr.,,Credits,Kalite Kontrolü
+Quality,ADJ,,Grades,Kaliteli
+Quality,N,,Labels,Kalite
+Quality Assurance,NP,,Credits,Kalite Kontrolü
+Quality Preset,NP,,Labels,Kalite Ön Ayarı
+Quartz,N,,Labels,Kuvars
+Queen,N,,Labels,Kraliçe
+Quest,N,,Labels,Görev
+Quests,N/Pl,,Labels,Görevler
+Quick Save,VP/Imp,To save quick,Actions,Hızlı Kaydet
+Quick Save,NP,A quick save,Labels,Hızlı Kayıt
+Quick Saves,NP/Pl,,Labels,Hızlı Kayıtlar
+Quick Saving,NP,"Act of saving quickly, IM etc.",Labels,Hızlı Kaydetme
+Quick Throw,VP/Imp,To throw sth quickly,Actions,Hızlıca Fırlat
+Quick Throwing,NP,Act of throwing quickly sth,Labels,Hızlıca Fırlatma
+Quit,V/I/Imp,"To leave, quit",Actions,Çık
+Quit Game,VP/I/Imp,,Actions,Oyundan Çık
+Rabbit's Foot,NP,,Labels,Tavşan Ayağı
+Race,V/I/Imp,To race,Actions,Yarış
+Race,N,A race,Labels,Yarış
+Race,N,,Labels,Irk
+Racing,N,,Labels,Yarış
+Racing,V/PrCon/Act,Sb is racing ,Actions,Yarışıyor
+Racing Game,NP,,Genre,Yarış Oyunu
+Radar,N,,Labels,Radar
+Radio Volume,NP,,Labels,Radyo Sesi
+Rage,N,,Labels,Öfke
+Raged,V/Past/Act,Sb raged,Status,Öfkelendi
+Raging,V/PrCon/Act,Sb is raging,Actions,Öfkeleniyor
+Raging,N,"Act of raging, IM etc.",Labels,Öfkelenme
+Rail,N,Train tracks,Labels,Ray
+Rails,N/Pl,Train tracks,Labels,Raylar
+Ran,V/Past/Act,Sb ran with legs,Status,Koştu
+Ran,V/Past/Act,"Sb escaped, avoided",Status,Kaçtı
+Random,ADJ,,Grades,Rastgele
+Randomize,V/T/Imp,To randomize,Actions,Rastgele Seç
+Range,N,,Labels,Menzil
+Ranged,ADJ,,Labels,Menzilli
+Ranger,N,,Labels,Korucu
+Rank,N,,Labels,Sıralama
+Ranked,ADJ,,Labels,Dereceli
+Raw,ADJ,,Labels,Çiğ
+Raw Food,NP,,Labels,Çiğ Yemek
+Ray Tracing,NP,,Labels,Işın İzleme
+Ray Tracing Quality,NP,,Labels,Işın İzleme Kalitesi
+Read,V/T/Imp,To read,Actions,Oku
+Read More,VP/I/Imp,To read more,Actions,Devamını Oku
+Real Time Strategy,NP,,Genre,Gerçek Zamanlı Strateji
+Reaper,N,A tool,Labels,Orak
+Reaper,N,"Death, grim reaper",Labels,Azrail
+Recentre Camera,VP/Imp,,Actions,Kamerayı Merkeze Al
+Recommend,V/T/Imp,To recommend sth,Actions,Öner
+Recommended,ADJ,Sth is recommended,Labels,Önerilen
+Recommending,V/PrCon/Pass,Sth is recommending by sb,Actions,Öneriliyor
+Reconnect,V/I/Imp,To reconnect,Actions,Yeniden Bağlan
+Reconnected,V/Past/Pass,Sb reconnected,Status,Yeniden Bağlandı
+Reconnecting,N,"Act of reconnecting, IM etc.",Labels,Yeniden Bağlanma
+Reconnecting,V/PrCon/Pass,Sb is reconnecting,Actions,Yeniden Bağlanılıyor
+Refill,V/T/Imp,To refill,Actions,Doldur
+Reflect,V/T/Imp,To reflect a spell etc.,Actions,Yansıt
+Reflected,V/Past/Pass,Sth was reflected by sb,Status,Yansıtıldı
+Reflecting,V/PrCon/Pass,Sb reflecting sth,Actions,Yansıtılıyor
+Reflecting,N,"Act of reflecting sth, IM etc.",Labels,Yansıtma
+Reflection,N,,Labels,Yansıma
+Reflection Quality,NP,,Labels,Yansıma Kalitesi
+Reflections,N/Pl,,Labels,Yansımalar
+Register,V/I/Imp,To register,Actions,Kaydol
+Reload,V/T/Imp,"To reload a page, program etc.",Actions,Yeniden Yükle
+Reload,V/T/Imp,To reload a non firearm,Actions,Tekrar Doldur
+Reload,V/I/Imp,To reload a firearm,Actions,Şarjör Değiştir
+Reloaded,V/Past/Pass,A firearm was reloaded by sb,Status,Şarjör Değiştirildi
+Reloaded,V/Past/Pass,Non firearm was reloaded by sb,Status,Tekrar Dolduruldu
+Reloading,V/PrCon/Pass,"A page, program etc reloading",Actions,Yeniden Yükleniyor
+Reloading,V/PrCon/Pass,Sb reloading a firearm,Actions,Şarjör Değiştiriliyor
+Reloading,N,Act of reloading a firearm,Labels,Şarjör Değiştirme
+Reloading,V/PrCon/Pass,Sb reloading a non firearm,Actions,Tekrar Dolduruluyor
+Reloading,N,Act of reloading a non firearm,Labels,Tekrar Doldurma
+Remember Me,VP/Imp,,Labels,Beni Hatırla
+Remove,V/T/Imp,To delete not relocate,Actions,Kaldır
+Render Quality,NP,,Labels,İşleme Kalitesi
+Render Scale,NP,,Labels,İşleme Ölçeği
+Repel,V/T/Imp,To repel an enemy etc.,Actions,Püskürt
+Repelled,V/Past/Pass,Sb was repelled by sb,Status,Püskürtüldü
+Repelling,N,"Act of repelling, IM etc.",Labels,Püskürtme
+Repelling,V/PrCon/Act,Sb is repelling sb or sth,Actions,Püskürtülüyor
+Replace,V/T/Imp,To change not relocate,Actions,Değiştir
+Replaced,V/Past/Pass,Sth was changed by sb,Status,Değiştirildi
+Replay,V/I/Imp,To play again a game etc.,Actions,Tekrar Oyna
+Replay,V/T/Imp,"To play again a song, video etc.",Actions,Tekrar Oynat
+Replays,N/Pl,Video replays etc.,Labels,Tekrarlar
+Report,V/T/Imp,"To report a bug, player etc.",Actions,Bildir
+Report Player,VP/Imp,,Actions,Oyuncuyu Bildir
+Reported,V/Past/Pass,Sb or sth was reported by sb,Status,Bildirildi
+Reporting,N,"Act of reporting, IM etc.",Labels,Bildirme
+Requirement,N,,Labels,Gereksinim
+Requirements,N/Pl,,Labels,Gereksinimler
+Reset to Default,VP/Imp,,Actions,Varsayılana Döndür
+Reset to Default Settings,VP/Imp,,Actions,Varsayılan Ayarlara Döndür
+Resistance,N,Magic resistance etc.,Labels,Direnç
+Resistances,N/Pl,Magic resistance etc.,Labels,Dirençler
+Resolution,N,Screen resolution,Labels,Çözünürlük
+Resolution Scale,NP,Screen resolution scale,Labels,Çözünürlük Ölçeği
+Resolutions,N/Pl,Screen resolutions,Labels,Çözünürlükler
+Resource,N,,Labels,Kaynak
+Resources,N/Pl,,Labels,Kaynaklar
+Respawn,V/I/Imp,To respawn again,Actions,Yeniden Canlan
+Respawned,V/Past/Act,Sb respawned,Status,Yeniden Canlandı
+Respawning,V/PrCon/Act,Sb respawning,Actions,Yeniden Canlanıyor
+Rest,V/I/Imp,"To rest, recover",Actions,Dinlen
+Restart,V/T/Imp,"To restart a program, game etc.",Actions,Yeniden Başlat
+Rested,V/Past/Act,Sb rested,Status,Dinlendi
+Resting,V/PrCon/Act,Sb is resting,Actions,Dinleniyor
+Resting,N,"Act of resting, IM etc.",Labels,Dinlenme
+Restore Defaults,VP/Imp,,Actions,Varsayılanlara Döndür
+Resume,V/I/Imp,"To resume a program, game etc.",Actions,Devam Et
+Resume Game,VP/Imp,,Actions,Oyuna Devam Et
+Retro,ADJ,,Genre,Nostaljik
+Retro Game,NP,,Genre,Nostaljik Oyun
+Return,V/I/Imp,To go back,Actions,Geri Dön
+Return,V/T/Imp,To change back a setting etc.,Actions,Geri Al
+Return to Desktop,VP/Imp,,Actions,Masaüstüne Geri Dön
+Return to Main Menu,VP/Imp,,Actions,Ana Menüye Geri Dön
+Reusable,ADJ,Reusable items etc.,Labels,Tekrar Kullanılabilir
+Reverse,VP/Imp,To reverse a change etc.,Actions,Geri Al
+Reverse,N,Reverse gear in cars,Labels,Geri Vites
+Reverse,VP/Imp,To go back,Actions,Geriye Git
+Revive,V/T/Imp,To revive sb,Actions,Dirilt
+Revived,V/Past/Pass,Sb was revived by sb,Status,Diriltildi
+Reviving,V/PrCon/Act,Sb is reviving sb,Actions,Diriltiyor
+Reviving,N,"Act of reviving, IM etc.",Labels,Diriltme
+Reward,N,Quest rewards etc.,Labels,Ödül
+Rewards,N/Pl,Quest rewards etc.,Labels,Ödüller
+Rifle,N,,Labels,Tüfek
+Rifles,N/Pl,,Labels,Tüfekler
+Right,N,,Labels,Sağ
+Right Hand,NP,,Labels,Sağ El
+Ring,N,,Labels,Yüzük
+Rings,N/Pl,,Labels,Yüzükler
+Robe,N,,Labels,Elbise
+Robot,N,,Labels,Robot
+Robust,ADJ,A robust item etc.,Labels,Sağlam
+Robustness,N,"Robustness of item, character",Labels,Sağlamlık
+Rocket,N,,Labels,Roket
+Rocket Launcher,NP,,Labels,Roketatar
+Rockets,N/Pl,,Labels,Roketler
+Rod,N,"Stick, rod",Labels,Çubuk
+Rogue,ADJ,Character's class,Labels,Hilekâr
+Role Playing Game,NP,,Genre,Rol Yapma Oyunu
+Roll,V/I/Imp,To roll with character etc.,Actions,Yuvarlan
+Roll,V/I/Imp,To roll the dice,Actions,Zar At
+Roll Left,VP/Imp,To roll left,Actions,Sola Yuvarlan
+Roll Right,VP/Imp,To roll right,Actions,Sağa Yuvarlan
+Rot,V/T/Imp,To rot sth or sb,Actions,Çürüt
+Rotate,V/T/Imp,To rotate sth,Actions,Döndür
+Rotate Minimap,VP/Imp,,Actions,Küçük Haritayı Döndür
+Rotted,V/Past/Pass,Sb or sth was rotted by sb,Status,Çürütüldü
+Rotten,ADJ,A rotten sth,Labels,Çürümüş
+Rotten Flesh,NP,,Labels,Çürük Et
+Rotting,V/PrCon/Act,Sb is rotting sth or sb,Actions,Çürütüyor
+Round,N,In fighting sports etc.,Labels,Raunt
+Round,N,A round in fps game etc.,Labels,El
+Royal,ADJ,,Labels,Asil
+RPG,Acr.,Role playing game,Genre,RYO
+RPG,N/Acr.,A weapon,Labels,Roketatar
+Run,V/I/Imp,To run with legs,Actions,Koş
+Run,V/I/Imp,"To run, avoid, flee sth",Actions,Kaç
+Run,V/T/Imp,"To run a program, game etc.",Actions,Çalıştır
+Run Away,V/I/Imp,"To run away, distance",Actions,Uzaklaş
+Running,V/PrCon/Act,Sb is running with legs,Actions,Koşuyor
+Running,V/PrCon/Act,"Sb is running, fleeing",Actions,Kaçıyor
+Running Away,V/PrCon/Act,"Sb is running away, distance",Actions,Uzaklaşıyor
+Rusty,ADJ,,Labels,Paslı
+Saddle,N,,Labels,Eyer
+Sage,N,,Labels,Alim
+Salmon,N,,Labels,Somon
+Save,V/T/Imp,To save sb or sth from sb,Actions,Kurtar
+Save,V/T/Imp,To save game etc.,Actions,Kaydet
+Save & Quit,VP/Imp,,Actions,Kaydet ve Çık
+Save and Quit,VP/Imp,,Actions,Kaydet ve Çık
+Save Data,NP,A save data,Labels,Kayıtlı Veri
+Save Data,VP/Imp,To save data,Actions,Veriyi Kaydet
+Save Game,NP,Saved games,Labels,Kayıtlı Oyunlar
+Save Game,VP/Imp,To save game,Actions,Oyunu Kaydet
+Save Point,NP,,Labels,Kayıt Noktası
+Saved,V/Past/Pass,Game was saved by sb,Status,Kaydedildi
+Saving,V/PrCon/Pass,Game saving itself etc.,Actions,Kaydediliyor
+Scholar,N,,Labels,Bilge
+Science Fiction Game,NP,,Genre,Bilim Kurgu Oyunu
+Scope,N,Weapon scope,Labels,Dürbün
+Scopes,N/Pl,Weapon scopes,Labels,Dürbünler
+Score,N,,Labels,Skor
+Scoreboard,N,,Labels,Skor Tabelası
+Screen Mode,NP,,Labels,Ekran Modu
+Screen Shake,NP,,Labels,Ekran Sarsıntısı
+Screen Size,NP,,Labels,Ekran Boyutu
+Script Writer,NP,,Credits,Senaryo Yazarı
+Script Writers,NP/Pl,,Credits,Senaryo Yazarları
+Scripter,N,,Credits,Senarist
+Scroll,V/T/Imp,"To scroll on menus, pages etc.",Actions,Kaydır
+Scroll,N,Magic scrolls etc.,Labels,Parşömen Tomarı
+Scrolls,N/Pl,Magic scrolls etc.,Labels,Parşömen Tomarları
+Season,N,,Labels,Sezon
+Seasons,N/Pl,,Labels,Sezonlar
+Second Place,NP,Sb placed in second,Grades,İkinci
+Secondary Weapon,NP,,Labels,İkincil Silah
+Select,V/T/Imp,To select sth,Actions,Seç
+Sell,V/T/Imp,To sell sth,Actions,Sat
+Senior,ADJ,,Labels,Kıdemli
+Sensitivity,N,,Labels,Hassasiyet
+Sentinel,N,,Labels,Gözcü
+Server,N,,Labels,Sunucu
+Servers,N/Pl,,Labels,Sunucular
+Setting,N,,Labels,Ayar
+Settings,N/Pl,,Labels,Ayarlar
+Setup,V/T/Imp,"To setup game, program etc.",Actions,Kur
+SFX,Acr.,,Labels,Ses Efektleri
+SFX,Acr.,,Labels,Özel Efektler
+SFX Volume,NP,,Labels,Ses Efektleri
+Shader,N,,Labels,Gölgelendirici
+Shaders,N/Pl,,Labels,Gölgelendiriciler
+Shadow,N,,Labels,Gölge
+Shadow Quality,NP,,Labels,Gölge Kalitesi
+Shadows,N/Pl,,Labels,Gölgeler
+Shaman,N,,Labels,Şaman
+Share,V/T/Imp,To share sth,Actions,Paylaş
+Shared,V/Past/Pass,Sth was shared by sb,Status,Paylaşıldı
+Sharpen,V/T/Imp,"To sharpen an image, screen",Actions,Keskinleştir
+Sharpness,N,"Image, screen sharpness",Labels,Keskinlik
+Shears,N/Pl,,Labels,Kırkma Makası
+Shell,N,,Labels,Kabuk
+Shell,N,,Labels,Deniz Kabuğu
+Shield,N,A shield,Labels,Kalkan
+Shield,V/T/Imp,To shield sb,Actions,Koru
+Shielded,V/Past/Pass,Sb was shielded by sb,Status,Korundu
+Shielding,V/PrCon/Act,Sb is shielding sth or sb,Actions,Koruyor
+Shielding,N,Act of shielding sb or sth,Labels,Koruma
+Shields,N/Pl,,Labels,Kalkanlar
+Shift,VP/Imp,To shift gear in cars,Actions,Vites Değiştir
+Shifting,NP,Act of shifting gears in car,Labels,Vites Değiştirme
+Shoot,V/I/Imp,To fire a firearm,Actions,Ateş Et
+Shoot,V/I/Imp,To fire a non firearm,Actions,Atış Yap
+Shooter Game,NP,,Genre,Nişancı Oyunu
+Shooting,N,Act of shooting a firearm,Labels,Ateş Etme
+Shooting,N,Act of shooting a non firearm,Labels,Atış Yapma
+Shop,N,"Micro transaction shop, IM",Labels,Mağaza
+Shop,N,A shop in game,Labels,Dükkân
+Shop,V/I/Imp,To shop,Actions,Alışveriş Yap
+Short Bow,NP,,Labels,Kısa Yay
+Shotgun,NP,,Labels,Pompalı Tüfek
+Shoulder Swap,NP,,Labels,Omuz Değiştirme
+Shovel,N,A shovel,Labels,Kürek
+Shovel,V/T/Imp,To shovel earth etc.,Actions,Küre
+Shovels,N/Pl,,Labels,Kürekler
+Show,V/T/Imp,To show sth,Actions,Göster
+Show FPS,VP/Imp,,Actions,Kare Hızını Göster
+Show Tutorials,VP/Imp,,Actions,Eğitimleri Göster
+Side Quest,NP,,Labels,Yan Görev
+Sign In,V/I/Imp,To login,Actions,Oturum Aç
+Sign Language,NP,,Labels,İşaret Dili
+Silence,V/I/Imp,To silence sb or sth,Actions,Sustur
+Silence Resistance,NP,,Labels,Susturma Direnci
+Silenced,V/Past/Pass,Sb or sth was silenced by sb,Status,Susturuldu
+Silencing,N ,Act of silencing sth or sb,Labels,Susturma
+Silencing,V/PrCon/Act,Sb is silencing,Actions,Susturuyor
+Silver,N,,Labels,Gümüş
+Silver Medal,NP,,Labels,Gümüş Madalya
+Simulation Game,NP,,Genre,Simülasyon Oyunu
+Single Handed,NP,,Labels,Tek Elli
+Single Player,NP,,Labels,Tek Oyunculu
+Singleplayer,NP,,Labels,Tek Oyunculu
+Size,N,,Labels,Boyut
+Skeleton,N,,Labels,İskelet
+Skill,N,"If it is magical, spell, skill",Labels,Yetenek
+Skill,N,Ability to do something well,Labels,Beceri
+Skill Tree,NP,"If it is magical, spell, skill",Labels,Yetenek Ağacı
+Skill Tree,NP,Ability to do something well,Labels,Beceri Ağacı
+Skills,N/Pl,"If it is magical, spell, skill",Labels,Yetenekler
+Skills,N/Pl,Ability to do something well,Labels,Beceriler
+Skin,N,Costumes,Labels,Kostüm
+Skin,N,Tissue that covers the body,Labels,Deri
+Skin,N,To skin ,Actions,Yüz
+Skin,N,Dark/Pale/Yellow skin colour,Labels,Ten
+Skin Colour,NP,,Labels,Ten Rengi
+Skins,N/Pl,Costumes,Labels,Kostümler
+Skip,V/T/Imp,To skip sth,Actions,Geç
+Skipped,V/Past/Pass,Sth was skipped by sb,Status,Geçildi
+Skipping,V/PrCon/Pass,Sb is skipping sth,Actions,Geçiliyor
+Skirt,N,,Labels,Etek
+Sleep,V/I/Imp,To sleep,Actions,Uyu
+Sleep Resistance,NP,,Labels,Uyuma Direnci
+Sleeping,V/PrCon/Act,Sb is sleeping,Actions,Uyuyor
+Sleeping,N,"Act of sleeping, IM etc.",Labels,Uyuma
+Slept,V/Past/Act,Sb slept,Status,Uyudu
+Slow,ADJ,,Grades,Yavaş
+Slow,V/T/Imp,To slow sth or sb,Actions,Yavaşlat
+Slowed,V/Past/Pass,Sth or sb was slowed by sb,Status,Yavaşlatıldı
+Slowing,V/PrCon/Act,Sb is slowing,Actions,Yavaşlatıyor
+Slowing,N,"Act of slowing, IM etc.",Labels,Yavaşlatma
+Small,ADJ,,Grades,Küçük
+Small Shield,NP,,Labels,Küçük Kalkan
+Smith,N,A blacksmith,Labels,Demirci
+Smithing,N,"Act of smithing, IM etc.",Labels,Demircilik
+Smithing Stone,NP,,Labels,Demircilik Taşı
+Smithing Table,NP,,Labels,Demircilik Tezgâhı
+Smoke Grenade,NP,,Labels,Sis Bombası
+Sneak,V/I/Imp,"To hide, cloak",Actions,Gizlen
+Sneaked,V/Past/Act,Sb sneaked,Status,Gizlendi
+Sneaking,V/PrCon/Act,Sb sneaking,Actions,Gizleniyor
+Sneaking,N,Act of sneaking,Labels,Gizlenme
+Sniper,N,,Labels,Keskin Nişancı
+Sniper Rifle,NP,,Labels,Keskin Nişancı Tüfeği
+Sniper Rifles,NP/Pl,,Labels,Keskin Nişancı Tüfekleri
+Snowball,N,,Labels,Kar Topu
+Social,ADJ,,Labels,Sosyal
+Soldier,N,,Labels,Asker
+Sorcerer,N,,Labels,Sahir
+Sorcery,N,,Labels,Sahircilik
+Sort,V/T/Imp,To sort ,Actions,Sırala
+Sort By,VP,Sorting Type,Labels,Sıralama Türü
+Sort By Favorite,VP/Imp,,Actions,Favoriye Göre Sırala
+Sort By Name,VP/Imp,,Actions,İsme Göre Sırala
+Sort Chest,VP/Imp,,Actions,Sandığı Düzenle
+Sound,N,,Labels,Ses
+Sound,N,,Credits,Ses
+Sound Designer,NP,,Credits,Ses Tasarımcısı
+Sound Effects,NP,,Credits,Ses Efektleri
+Sound Engineer,NP,,Credits,Ses Mühendisi
+Sound Options,NP,,Labels,Ses Seçenekleri
+Sound Quality,NP,,Labels,Ses Kalitesi
+Sound Settings,NP,,Labels,Ses Ayarları
+Sounds,N/Pl,,Labels,Sesler
+Sounds,N/Pl,,Credits,Sesler
+Soundtracks,N/Pl,,Credits,Oyun Müzikleri
+Soundtrack,N,,Credits,Oyun Müziği
+Soundtrack,N,,Labels,Ses Parçası
+Soundtrack,N,,Labels,Oyun Müziği
+Soup,N,,Labels,Çorba
+Space,N,,Labels,Uzay
+Spaceship,N,,Labels,Uzay Gemisi
+Spawn Point,NP,,Labels,Canlanma Noktası
+Speaker Setup,NP,,Labels,Hoparlör Kurulumu
+Spear,N,,Labels,Mızrak
+Special,ADJ,,Status,Özel
+Spectate,V/T/Imp,To spectate,Actions,İzle
+Spectator ,N,,Labels,İzleyici
+Spectator Mode,NP,,Labels,İzleyici Modu
+Spectators,N/Pl,,Labels,İzleyiciler
+Speed,N,,Labels,Hız
+Spell,N,,Labels,Büyü
+Spell Cost,NP,,Labels,Büyü Bedeli
+Spellcaster,N,,Labels,Büyücü
+Spells,N/Pl,,Labels,Büyüler
+Spin,V/T/Imp,To spin sth,Actions,Döndür
+Spirit,N,,Labels,Ruh
+Split Screen,NP,,Labels,Bölünmüş Ekran
+Sports Game,NP,,Genre,Spor Oyunu
+Spray,V/T/Imp,To spray paint,Actions,Püskürt
+Sprint,V/I/Imp,To sprint,Actions,Hızlı Koş
+Sprinting,V/PrCon/Act,Sb is sprinting,Actions,Hızlı Koşuyor
+Sprinting,N,"Act of sprinting, IM etc.",Labels,Hızlı Koşma
+Spyglass,N,,Labels,Dürbün
+SSAO,Acr.,,Labels,SSAO
+SSAO Quality,NP,,Labels,SSAO Kalitesi
+Stability,N,"Being stable, not durability",Labels,Kararlılık
+Staff,N,Staff of a mage,Labels,Asa
+Staff,N,"Stick, bat, a weapon",Labels,Sopa
+Stamina,N,,Labels,Dayanıklılık
+Start,V/T/Imp,"To start a program, game",Actions,Başlat
+Start,V/I/Imp,To start sth,Actions,Başla
+Start Game,VP/Imp,,Actions,Oyunu Başlat
+Start New Journey,VP/Imp,,Actions,Yeni Yolculuğa Başla
+Start Now,VP/Imp,,Actions,Şimdi Başla
+Starting,V/PrCon/Pass,Sth is starting,Actions,Başlatılıyor
+Stats,N/Pl,,Labels,İstatistikler
+Status,N,,Labels,Durum
+Stay,V/I/Imp,To stay where you are,Actions,Kal
+Steal,V/T/Imp,To steal sth,Actions,Çal
+Stealing,N,Act of stealing,Labels,Çalma
+Stealing,V/PrCon/Act,Sb is stealing,Actions,Çalıyor
+Stealing Life,VP/PrCon/Act,Sb is stealing life,Actions,Can Çalıyor
+Stealth,N,,Labels,Gizlilik
+Steer,V/T/Imp,To drive wheel,Actions,Sür
+Steer Left,V/Imp,To drive,Actions,Sola Sür
+Steer Right,V/Imp,To drive,Actions,Sağa Sür
+Steering,N,Steering sheel,Labels,Direksiyon
+Steering Linearity,NP,,Labels,Direksiyon Doğrusallığı
+Stereo,ADJ,,Labels,Çift Kanallı
+Stick,N,Rod,Labels,Çubuk
+Stick,NP,"Thin, twig",Labels,İnce Dal
+Sticks,NP/Pl,Twigs,Labels,İnce Dallar
+Sticks,N/Pl,Rods,Labels,Çubuklar
+Sticky Bomb,NP,,Labels,Yapışkan Bomba
+Stolen,V/Past/Pass,Sth was stolen by sb,Status,Çalındı
+Stolen,ADJ,"A ""stolen"" thing",Labels,Çalıntı
+Stone,N,Rock,Labels,Taş
+Store,N,,Labels,Dükkân
+Store,V/T/Imp,To store sth,Actions,Depola
+Stored,V/Past/Pass,Sth was stored by sb,Status,Depolandı
+Story,N,,Labels,Hikâye
+STR,Abbr.,Character's stat,Labels,KUV
+Straight,ADJ,,Labels,Düz
+Straight Sword,NP,,Labels,Düz Kılıç
+Straight Swords,NP/Pl,,Labels,Düz Kılıçlar
+Strategy Game,NP,,Genre,Strateji Oyunu
+Streamer Mode,NP,,Labels,Yayıncı Modu
+Strength,N,,Labels,Kuvvet
+Strike,V/T/Imp,To strike with weapon etc.,Actions,Vur
+Striking,V/PrCon/Act,Sb is striking with weapon etc.,Actions,Vuruyor
+String,N,,Labels,Yay
+Strong Attack,NP,,Labels,Güçlü Saldırı
+Struck,V/Past/Pass,Sth or sb was struck by sb,Status,Vuruldu
+Stun,V/T/Imp,To stun sth or sb,Actions,Sersemlet
+Stun Grenade,NP,,Labels,Sersemletme Bombası
+Stunned,V/Past/Pass,Sb or sth was stunned by sb,Status,Sersemletildi
+Stunning,V/PrCon/Act,Sb is stunning sth or sb,Actions,Sersemletiyor
+Stunning,N,"Act of stunning, IM etc.",Labels,Sersemletme
+Subtitle,N,,Labels,Alt Yazı
+Subtitles,N/Pl,,Labels,Alt Yazılar
+Subtitles Text Size,NP,,Labels,Alt Yazı Boyutu
+Sugar,N,,Labels,Şeker
+Summon,V/T/Imp,To summon sb or sth,Actions,Çağır
+Summoned,V/Past/Pass,Sb or sth was summoned by sb,Status,Çağrıldı
+Summoning,V/PrCon/Act,Sb is summoning sth or sb,Actions,Çağırıyor
+Summoning,N,"Act of summoning, IM etc.",Labels,Çağırma
+Supply,V/T/Imp,To supply sth,Actions,Tedarik Et
+Supply,N,A supply,Labels,Erzak
+Support,V/T/Imp,To support sb,Actions,Destekle
+Support,N,A support,Labels,Destek
+Suspend,V/T/Imp,To suspend,Actions,Askıya Al
+Suspended,V/Past/Pass,Sth was suspended by sb,Status,Askıya Alındı
+Suspension,N,,Labels,Süspansiyon
+Suspensions,N/Pl,,Labels,Süspansiyonlar
+Swim,N,To swimm,Labels,Yüz
+Swim Down,VP/Imp,To swimm down,Actions,Dibe Dal
+Swim Up,VP/Imp,To swimm up,Actions,Yukarı Çık
+Swimming,N,"Act of swimming, IM etc.",Labels,Yüzme
+Swimming,V/PrCon/Act,Sb is swimming,Actions,Yüzüyor
+Swipe,V/T/Imp,To swipe,Actions,Kaydır
+Switch Account,VP/Imp,,Actions,Hesap Değiştir
+Switch Gear,VP/Imp,Equipment etc.,Actions,Ekipman Değiştir
+Switch Gear,VP/Imp,Gear of a car,Actions,Vites Değiştir
+Sword,N,,Labels,Kılıç
+Swords,N/Pl,,Labels,Kılıçlar
+System,N,,Labels,Sistem
+System Menu,NP,,Labels,Sistem Menüsü
+TAA,Acr.,,Labels,TAA
+Tabard,N,,Labels,Zırhlı Yelek
+Tactic,N,,Labels,Taktik
+Tactics Game,NP,,Genre,Taktik Oyunu
+Tactics,N/Pl,,Labels,Taktikler
+Tag,N,,Labels,Etiket
+Tags,N/Pl,,Labels,Etiketler
+Talent,N,,Labels,Kabiliyet
+Talents,N/Pl,,Labels,Kabiliyetler
+Talisman,N,,Labels,Muska
+Talismans,N/Pl,,Labels,Muskalar
+Talk,V/I/Imp,To talk,Actions,Konuş
+Talked,V/Past/Act,Sb talked,Status,Konuştu
+Talked,V/Past/Pass,Sb was talked by sb,Status,Konuşuldu
+Talking,N,"Act of talking, IM etc.",Labels,Konuşma
+Talking,V/PrCon/Act,Sb is talking,Actions,Konuşuyor
+Team,N,,Labels,Takım
+Team Size,NP,,Labels,Takım Büyüklüğü
+Teammate,N,,Labels,Takım Arkadaşı
+Technical Art Director,NP,,Credits,Teknolojik Sanat Yönetmeni
+Technical Artist,NP,,Credits,Teknoloji Sanatçısı
+Technical Director,NP,,Credits,Teknoloji Yönetmeni
+Telekinesis,N,,Labels,Telekinezi
+Teleport,V/T/Imp,To teleport sth or sb,Actions,Işınla
+Teleportation,N,"Act of teleporting, IM etc.",Labels,Işınlanma
+Teleported,V/Past/Pass,Sb teleported,Status,Işınlandı
+Teleporting,V/PrCon/Act,Sb is teleporting,Actions,Işınlanıyor
+Terms Of Service,NP,,Labels,Hizmet Koşulları
+Terms Of Use,NP,,Labels,Kullanım Koşulları
+Text,N,,Labels,Metin
+Text to Speech,NP,,Labels,Metin Okuma
+Texture,N,,Labels,Doku
+Texture Detail,NP,,Labels,Doku Detayı
+Texture Filtering,NP,,Labels,Doku Filtreleme
+Texture Quality,NP,,Labels,Doku Kalitesi
+The End,Expression,,Labels,Son
+Thief,N,,Labels,Hırsız
+Thievery,N,,Labels,Hırsızlık
+Third Party,NP,,Labels,Üçüncü Parti
+Third Person Shooter,NP,,Genre,Üçüncü Şahıs Nişancı
+Third Person View,NP,,Labels,Üçüncü Şahıs Bakış Açısı
+Third Place,NP,Sb placed third,Grades,Üçüncü
+Threshold,N,,Labels,Eşik
+Throw,V/T/Imp,To throw sth,Actions,Fırlat
+Throwable,ADJ,,Labels,Fırlatılabilir
+Throwables,N/Pl,,Labels,Fırlatılabilirler
+Thrust,V/T/Imp,To thrust a weapon ,Actions,Sapla
+Thrusting,ADJ,Act of thrusting,Labels,Saplama
+Thrusting Sword,NP,,Labels,Saplama Kılıcı
+Tilt,V/T/Imp,To tilt sth,Actions,Eğ
+Time,N,,Labels,Süre
+Time Left,Expression,,Labels,Kalan Süre
+Timestamp,N,,Labels,Tarih Bilgisi
+Timestamps,N/Pl,,Labels,Tarih Bilgileri
+Tiny,ADJ,,Grades,Ufacık
+Tip,N,,Labels,Tüyo
+Toggle Timeline,VP/Imp,,Actions,Zaman Çizelgesini Aç
+Tool,N,If it is a tool like shovel etc.,Labels,Alet
+Tool,N,"If it is a pc tool, game tool",Labels,Araç
+Tools,N/Pl,If it is a tool like shovel etc.,Labels,Aletler
+Tools,N/Pl,"If it is a pc tool, game tool",Labels,Araçlar
+Torch,N,,Labels,Meşale
+Torso,N,,Labels,Gövde
+TOU,Acr.,,Labels,TOU
+Touch,V/I/Imp,To touch,Actions,Dokun
+Touch Settings,NP,,Labels,Dokunma Ayarları
+Tournament,N,,Labels,Turnuva
+Tournaments,N/Pl,,Labels,Turnuvalar
+Tower Defence Game,NP,,Genre,Kule Savunması Oyunu
+Trade,V/T/Imp,To trade sth with sb,Actions,Takas Et
+Traded,V/Past/Pass,Sth was traded with sb,Status,Takas Edildi
+Trading,N,"Act of trading, IM etc.",Labels,Takas Etme
+Trading,V/PrCon/Act,Sb trading,Actions,Takas Ediliyor
+Transgender,N,,Labels,Transseksüel
+Translation,N,,Labels,Çeviri
+Treasure,N,,Labels,Hazine
+Tree,N,,Labels,Ağaç
+Trial,N,Trial version etc.,Labels,Deneme
+Trial,N,"Trialing your self, game mode",Labels,Sınama
+Trilinear,ADJ,,Labels,Üç Doğrusal
+Trophies,N/Pl,,Labels,Kupalar
+Trophy,N,,Labels,Kupa
+Trouser,N,,Labels,Pantolon
+Trousers,N/Pl,,Labels,Pantolonlar
+Turn,N,,Labels,Sıra
+Turn Based,NP,,Genre,Sıra Tabanlı
+Turn Based Strategy,NP,,Genre,Sıra Tabanlı Strateji
+Turret,N,"If it is a tower, big turret",Labels,Kule
+Turret,N,If it is mechanical weapon,Labels,Taret
+Turrets,N/Pl,"If it is a tower, big turret",Labels,Kuleler
+Turrets,N/Pl,If it is mechanical weapon,Labels,Taretler
+Tutorial,N,,Labels,Eğitim
+Tutorials,N/Pl,,Labels,Eğitimler
+Two Handed,NP,,Labels,İki Elli
+Two Handed Axe,NP,,Labels,İki Elli Balta
+Two Handed Mace,NP,,Labels,İki Elli Topuz
+Two Handed Sword,NP,,Labels,İki Elli Kılıç
+Type,N,,Labels,Cins
+UI Design,NP,,Credits,Arayüz Tasarımı
+UI Designer,NP,,Credits,Arayüz Tasarımcısı
+UI,N,,Credits,Arayüz
+UI,N,,Labels,Arayüz
+UI Scale,NP,,Labels,Arayüz Boyutu
+UI Volume,NP,,Labels,Arayüz Sesi
+Ultra,ADJ,,Grades,Aşırı
+Unarmed,ADJ,,Labels,Silahsız
+Unbeatable,ADJ,,Labels,Yenilmez
+Unconscious,ADJ,,Labels,Baygın
+Undead,ADJ,,Labels,Yaşayan Ölü
+Undo,VP/Imp,To change back,Actions,Geri Al
+Unique,ADJ,,Grades,Eşsiz
+Unit,N,,Labels,Birim
+Units,N/Pl,,Labels,Birimler
+Unlock,V/Imp,"To remove, unlock a settings",Actions,Kilidi Kaldır
+Unlock,V/Imp,To unlock a door lock etc.,Actions,Kilidi Aç
+Unlocked Achievements,NP,,Labels,Kazanılan Başarımlar
+Unrepairable,ADJ,,Labels,Tamir Edilemez
+Up,Prep.,,Labels,Yukarı
+Update,V/T/Imp,To update,Actions,Güncelle
+Updated,ADJ,,Labels,Güncel
+Updater,N,,Labels,Güncelleyici
+Updating,V/PrCon/Act,Sth is being updated,Actions,Güncelleniyor
+Use,V/T/Imp,To use,Actions,Kullan
+Use Item,VP/Imp,To use,Actions,Eşyayı Kullan
+Used,V/Past/Pass,Sth was used by sb,Status,Kullanıldı
+User Interface,NP,,Labels,Kullanıcı Arayüzü
+User Interface,NP,,Credits,Kullanıcı Arayüzü
+User Interface Scale,NP,,Labels,Kullanıcı Arayüzü Boyutu
+Username,N,,Labels,Kullanıcı Adı
+Using,V/PrCon/Act,Sb is using sth,Actions,Kullanıyor
+Using,N,Act of using,Labels,Kullanma
+Value,N,,Labels,Değer
+Vault,V/I/Imp,"To vault sth, wall etc.",Actions,Üzerinden Atla
+Vaulting,N,"Act of vaulting, IM etc.",Labels,Üzerinden Atlama
+Vehicle,N,,Labels,Araç
+Vehicles,N/Pl,,Labels,Araçlar
+Version,N,,Labels,Sürüm
+Versions,N/Pl,,Labels,Sürümler
+Versus,N,,Labels,Kapışma
+Versus Mode,NP,,Labels,Kapışma Modu
+Vertical Sensitivity,NP,,Labels,Dikey Hassasiyet
+Vertical Sync,NP,,Labels,Dikey Senkronizasyon
+Vertical Synchronization,NP,,Labels,Dikey Senkronizasyon
+Very Easy,NP,,Grades,Çok Kolay
+Very Hard,NP,,Grades,Çok Zor
+Very High,NP,,Grades,Çok Yüksek
+Very Low,NP,,Grades,Çok Düşük
+Vial,N,,Labels,Küçük Şişe
+Vibration,N,,Labels,Titreşim
+Victory,N,,Labels,Zafer
+Video,N,,Labels,Video
+Video Calibration,NP,,Labels,Video Kalibrasyonu
+Video Options,NP,,Labels,Video Seçenekleri
+Video Quality,NP,,Labels,Video Kalitesi
+Video Settings,NP,,Labels,Video Ayarları
+View Controls,NP,,Labels,Görüş Kontrolleri
+View Distance,NP,,Labels,Görüş Uzaklığı
+Vigor,N,,Labels,Yaşam Gücü
+Virtual Reality,NP,,Genre,Sanal Gerçeklik
+Visibility,N,,Labels,Görünürlük
+Voice,N,About voice chat,Labels,Sesli Sohbet
+Voice,N,,Credits,Seslendirme
+Voice Acting,NP,,Credits,Seslendirme Sanatçıları
+Voice Chat,NP,,Labels,Sesli Sohbet
+Voice Chat Volume,NP,,Labels,Sesli Sohbet Sesi
+Voice Input,NP,,Labels,Sesli Sohbet Girdisi
+Voice Input Mode,NP,,Labels,Sesli Sohbet Girdisi Modu
+Voice Volume,NP,,Labels,Sesli Sohbet Sesi
+Volume,N,,Labels,Ses
+Volumetric Quality,NP,,Labels,Hacimsel Işıklandırma Kalitesi
+V-Sync,Abbr.,,Labels,Dikey Senkronizasyon
+Wait,V/T/Imp,To wait,Actions,Bekle
+Wait for Vertical Sync,VP/I/Imp,,Labels,Dikey Senkronizasyonu Bekle
+Waiting,V/PrCon/Pass,Sb or sth is waiting,Actions,Bekleniyor
+Walk,V/I/Imp,To move,Actions,Yürü
+Walk Backwards,VP/I/Imp,,Actions,Geri Yürü
+Walk Forward,VP/I/Imp,,Actions,İleri Yürü
+Walking,N,"Act of walking, IM etc.",Labels,Yürüme
+Walking,V/PrCon/Act,Sb is walking,Actions,Yürüyor
+Wall,N,,Labels,Duvar
+Walls,N/Pl,,Labels,Duvarlar
+Wand,N,Magic wand,Labels,Değnek
+Wands,N/Pl,Magic wand,Labels,Değnekler
+War,N,,Labels,Savaş
+War Cry,NP,,Labels,Savaş Narası
+Warning,N,,Labels,Dikkat
+Warrior,N,,Labels,Savaşçı
+Water,N,,Labels,Su
+Water Attack,NP,,Labels,Su Saldırısı
+Water Damage,NP,,Labels,Su Hasarı
+Water Resistance,NP,,Labels,Su Direnci
+Water Surface Quality,NP,,Labels,Su Yüzey Kalitesi
+Waypoint,N,,Labels,Ara Nokta
+Waypoints,N/Pl,,Labels,Ara Noktalar
+Weapon,N,,Labels,Silah
+Weapon Swap,NP,,Labels,Silah Değiştirme
+Weapons,N/Pl,,Labels,Silahlar
+Weekly,ADJ,,Labels,Haftalık
+Weekly Missions,NP,,Labels,Haftalık Görevler
+Weight,N,,Labels,Ağırlık
+Welcome,Expression,,Labels,Hoş Geldiniz
+Wet,ADJ,,Labels,Islak
+What's New,Expression,,Sentences,Yeni Neler Var
+Wheels,N/Pl,,Labels,Tekerlekler
+Whip,N,A whip,Labels,Kırbaç
+Whip,V/T/Imp,To whip,Actions,Kırbaçla
+Whips,N/Pl,,Labels,Kırbaçlar
+Widescreen,N,,Labels,Geniş Ekran
+Window,N,,Labels,Pencere
+Window Mode,NP,,Labels,Pencere Modu
+Window Size,NP,,Labels,Pencere Boyutu
+Windowed,ADJ,,Labels,Pencereli
+Wing,N,,Labels,Kanat
+Wings,N/Pl,,Labels,Kanatlar
+Winner,N,,Labels,Kazanan
+Wins,N/Pl,,Labels,Kazanmalar
+Witch,N,,Labels,Cadı
+Wits,N,,Labels,Akıl
+Wizard,N,,Labels,Büyücü
+Wolf,N,,Labels,Kurt
+Woman,N,,Labels,Kadın
+Women,N/Pl,,Labels,Kadınlar
+Wood,N,,Labels,Tahta
+Workshop,N,,Labels,Atölye
+World,N,,Labels,Dünya
+Wound,N,A wound,Labels,Yara
+Wound,V/T/Imp,To wound sb,Actions,Yarala
+Wounded,V/Past/Pass,Sb was wounded by sb,Status,Yaralandı
+Wounded,ADJ,"A ""wounded"" sb",Labels,Yaralı
+Wounding,N,"Act of wounding, IM etc.",Labels,Yaralama
+Writer,N,,Credits,Yazar
+Writers,N/Pl,,Credits,Yazarlar
+Writing Director,NP,,Credits,Yazım Yönetmeni
+XP,Acr.,,Labels,TP
+Yes,Interjection,,Actions,Evet
+You are dead,S,,Sentences,Öldün
+You cannot carry any more,S,,Sentences,Daha fazla taşıyamazsın
+You Died,S,,Sentences,Öldün
+You have been defeated,S,,Sentences,Yenildin
+You Lose,S/Present,,Sentences,Kaybettin
+You Lost,S/Past,,Sentences,Kaybettin
+You Win,S/Present,,Sentences,Kazandın
+You Won,S/Past,,Sentences,Kazandın
+Zeroing,N,Weapon zeroing,Labels,Sıfırlama
+Zombie,N,,Labels,Zombi
+Zombies,N/Pl,,Labels,Zombiler
+Zone,N,,Labels,Alan
+Zoom In,VP/I/Imp,To zoom a weapon etc.,Actions,Yakınlaştır
+Zoom Out,VP/I/Imp,To zoom out a weapon etc.,Actions,Uzaklaştır

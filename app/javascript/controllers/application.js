@@ -1,4 +1,5 @@
 import { Application } from "@hotwired/stimulus"
+import { Turbo } from "@hotwired/turbo-rails"
 import NestedForm from 'stimulus-rails-nested-form'
 const application = Application.start()
 

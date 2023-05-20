@@ -18,17 +18,16 @@ class KeywordsController < ApplicationController
   end
 
   def all
-    @keywords = Keyword.all
+    @keywords = Keyword.search(params[:search]).paginate(page: params[:page], per_page: 15)
   end
 
   def create
     @keyword = Keyword.new(keyword_params)
 
-    respond_to do |format|
-      if @keyword.save
-        format.html { redirect_to @keyword, notice: 'Keyword was successfully created.' }
-        format.json { render :show, status: :created, location: @keyword }
-      else
+    if @keyword.save
+      redirect_to all_keywords_path
+    else
+      respond_to do |format|
         format.html { render :new }
         format.json { render json: @keyword.errors, status: :unprocessable_entity }
       end
@@ -36,11 +35,10 @@ class KeywordsController < ApplicationController
   end
 
   def update
-    respond_to do |format|
-      if @keyword.update(keyword_params)
-        format.html { redirect_to @keyword, notice: 'Keyword was successfully updated.' }
-        format.json { render :show, status: :created, location: @keyword }
-      else
+    if @keyword.update(keyword_params)
+      redirect_to all_keywords_path
+    else
+      respond_to do |format|
         format.html { render :edit }
         format.json { render json: @keyword.errors, status: :unprocessable_entity }
       end

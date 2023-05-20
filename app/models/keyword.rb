@@ -20,6 +20,14 @@ class Keyword < ApplicationRecord
     end
   end
 
+  def self.search(keyword)
+    if keyword.present?
+      Keyword.where("word LIKE :search", search: "%#{keyword}%")
+    else
+      Keyword.all
+    end
+  end
+
   def word_translations_attributes=(word_translation_attributes)
     word_translation_attributes.values.each do |translate_attribute|
       translate = Translate.create(name: translate_attribute["translate_attributes"]["translated"])

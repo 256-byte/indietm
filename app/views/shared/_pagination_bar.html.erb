@@ -1,0 +1,9 @@
+<div class="w-full p-2.5 inline-block">
+  <div class="float-left text-sm text-gray-500 mt-[3px] text-center">
+    <%= page_entries_info @keywords %>
+  </div>
+    <div class="apple_pagination text-sm float-right">
+      <%= will_paginate @keywords, :container => false, previous_label: "← Prev ".html_safe,
+          next_label: " Next →".html_safe  %>
+    </div>
+</div>

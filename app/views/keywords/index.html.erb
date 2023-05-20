@@ -13,28 +13,31 @@
 </div>
 
 <div class="relative items-start justify-between rounded-xl border border-gray-100 p-4 shadow-xl sm:p-6 lg:p-8 mx-auto w-[70%] bg-white mt-4">
-  <% @keywords.each do |keyword|%>
-    <table class="table-responsive">
-      <thead>
-        <tr>
-          <th>Turkish</th>
-          <th>Example/Description</th>
-          <th>Category/Group</th>
-          <th>Word Class</th>
-        </tr>
-      </thead>
-      <tbody>
-        <% keyword.translates.each do |translate| %>
+
+  <div class="relative overflow-x-auto">
+      <table class="table-responsive">
+        <thead>
           <tr>
-            <td><%= translate.translated%></td>
-            <td><%= translate.description%></td>
-            <td><%= translate.category.capitalize %></td>
-            <td class="italic"><%= translate.word_class.join("/")%></td>
+            <th scope="col">English</th>
+            <th scope="col">Word Class</th>
+            <th scope="col">Example/Description</th>
+            <th scope="col">Category/Group</th>
+            <th scope="col">Turkish</th>
           </tr>
+        </thead>
+        <tbody>
+        <% @keywords.each do |keyword|%>
+          <% keyword.translates.each do |translate| %>
+            <tr>
+              <td scope="row"><%= keyword.marked_word(params[:search]) %></td>
+              <td class="italic"><%= translate.word_class.join("/")%></td>
+              <td><%= translate.description%></td>
+              <td><%= translate.category.capitalize %></td>
+              <td><%= translate.translated %></td>
+            </tr>
+          <% end %>
         <% end %>
       </tbody>
     </table>
-  <% end %>
-
-
+  </div>
 </div>

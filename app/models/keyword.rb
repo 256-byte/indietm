@@ -7,10 +7,14 @@ class Keyword < ApplicationRecord
 
   accepts_nested_attributes_for :translates, reject_if: :all_blank, allow_destroy: true
 
+  def marked_word(search_value)
+    self.word.gsub(search_value, "<b>#{search_value}</b>").html_safe
+  end
+
 
   def self.list(keyword)
     if keyword.present?
-      Keyword.where("lower(word) LIKE :search", search: "%#{keyword.downcase}%")
+      Keyword.where("word LIKE :search", search: "%#{keyword}%")
     else
       []
     end
